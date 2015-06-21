@@ -6,5 +6,7 @@ FLY_US 是我收集的一些备考北美研究生的资料。
 
 常用网站：
   >[一亩三分地论坛]
+  >[寄托天下]
   
 [一亩三分地论坛]: http://www.1point3acres.com/
+[寄托天下]:http://bbs.gter.net/
