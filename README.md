@@ -9,4 +9,4 @@ FLY_US 是我收集的一些备考北美研究生的资料。
   >[寄托天下]
   
 [一亩三分地论坛]: http://www.1point3acres.com/
-[寄托天下]:http://bbs.gter.net/
+[寄托天下]: http://bbs.gter.net/
