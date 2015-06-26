@@ -8,7 +8,16 @@ FLY_US 是我收集的一些备考北美研究生的资料。
   > [一亩三分地论坛]
   > [寄托天下]
   
+如果你没有用过Github,但是想快速下载这里的内容。
+可以安装一个[git客户端],然后进入CMD或者Terminal。
+运行以下命令即可：
+ > git clone https://github.com/hot13399/FLY_US.git
   
+也可以点击右上角的Star和Fork关注这个项目。
+更多信息可以浏览[Github.Help]
+
 [一亩三分地论坛]: http://www.1point3acres.com/
 [寄托天下]: http://bbs.gter.net/
 [高性价比大学及费用]: https://github.com/hot13399/FLY_US/blob/master/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF/%E5%8C%97%E7%BE%8E%E6%80%A7%E4%BB%B7%E6%AF%94%E5%A4%A7%E5%AD%A6%E5%AD%A6%E8%B4%B9.md
+[git客户端]: http://git-scm.com/downloads
+[Github.Help]: https://help.github.com/articles/set-up-git/
