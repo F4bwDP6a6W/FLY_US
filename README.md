@@ -3,6 +3,9 @@
 FLY_US 是我收集的一些备考北美研究生的资料。
 
 包括美国大学信息:[高性价比大学及费用]，GRE还有托福资料。
+最新特别加入[《再要你命3000系列》]，包括原始的PDF版本。
+还有我亲自制作的，supermemo导入版本，和有道单词表导入版本：
+
 
 常用网站：
   
@@ -36,3 +39,4 @@ TOEFL复习主要用：
 [OG]: http://store.ets.org/store/ets/en_US/pd/ThemeID.12805600/productID.253480200
 [magoosh]: http://magoosh.com/
 [TPO]: http://bbs.zhan.com/forum-41-1.html
+[《再要你命3000系列》]: https://github.com/hot13399/FLY_US/tree/master/GRE/%E8%AF%8D%E6%B1%87/%E8%A6%81%E4%BD%A0%E5%91%BD%E4%B8%89%E5%8D%83%E7%B3%BB%E5%88%97
