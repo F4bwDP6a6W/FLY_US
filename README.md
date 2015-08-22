@@ -42,3 +42,4 @@ TOEFL复习主要用：
 [magoosh]: http://magoosh.com/
 [TPO]: http://bbs.zhan.com/forum-41-1.html
 [《再要你命3000系列》]: https://github.com/hot13399/FLY_US/tree/master/GRE/%E8%AF%8D%E6%B1%87/%E8%A6%81%E4%BD%A0%E5%91%BD%E4%B8%89%E5%8D%83%E7%B3%BB%E5%88%97
+[阅读三十六套]: https://github.com/hot13399/FLY_US/tree/master/GRE/%E9%98%85%E8%AF%BB/%E9%99%88%E8%99%8E%E5%B9%B3%E9%98%85%E8%AF%BB36%E5%A5%97
