@@ -20,6 +20,10 @@ GRE复习主要用：
   > [OG]
   
   > [阅读三十六套]
+  
+  > [新GRE填空(台湾麟渡兮老师)]
+  
+  > [杨鹏的长难句总结]
 
 TOEFL复习主要用：
   > [TPO]
@@ -43,3 +47,5 @@ TOEFL复习主要用：
 [TPO]: http://bbs.zhan.com/forum-41-1.html
 [《再要你命3000系列》]: https://github.com/hot13399/FLY_US/tree/master/GRE/%E8%AF%8D%E6%B1%87/%E8%A6%81%E4%BD%A0%E5%91%BD%E4%B8%89%E5%8D%83%E7%B3%BB%E5%88%97
 [阅读三十六套]: https://github.com/hot13399/FLY_US/tree/master/GRE/%E9%98%85%E8%AF%BB/%E9%99%88%E8%99%8E%E5%B9%B3%E9%98%85%E8%AF%BB36%E5%A5%97
+[新GRE填空(台湾麟渡兮老师)]: https://github.com/hot13399/FLY_US/blob/master/GRE/%E5%A1%AB%E7%A9%BA/%E6%96%B0GRE%E5%A1%AB%E7%A9%BA(%E5%8F%B0%E6%B9%BE%E9%BA%9F%E6%B8%A1%E5%85%AE%E8%80%81%E5%B8%88).pdf
+[杨鹏的长难句总结]: https://github.com/hot13399/FLY_US/blob/master/GRE/%E9%98%85%E8%AF%BB/%E6%9D%A8%E9%B9%8F%E7%9A%84%E9%95%BF%E9%9A%BE%E5%8F%A5%E6%80%BB%E7%BB%93.pdf
