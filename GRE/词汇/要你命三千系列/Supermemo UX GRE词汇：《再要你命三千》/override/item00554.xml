@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
+  <chapter-title>List 6</chapter-title>
+  <question-title>根据单词，回想词义</question-title>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">decode</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;di:5kEJd&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 解码： to change (as a secret message) from code into ordinary language<br />
+【例】 the agents worked into the night to decode the intercepted message from the enemy spy 情报人员夜以继日地破解从敌方间谍拦截的信息<br />
+【近】 break, crack, decipher, decrypt<br />
+<br />
+【考法 2】 v. 有清晰想法，理解,解读： to have a clear idea of<br />
+【近】 apprehend, perceive, recognize, seize, sense ,make out<br />
+<br />
+【记】 de 否定 + code 密码→解开密码<br />
+</answer>
+  <modified>2015-07-26</modified>
+  <template-id>10006</template-id>
+  <question-audio>true</question-audio>
+</item>

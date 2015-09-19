@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question-title>根据单词，回想词义 </question-title>
+  <question>anachronism<br />
+[əˈnækrənɪzəm]</question>
+  <answer>【考法1】n. 不合时代的人或事物；过时现象：something or someone that is not in its correct historical or chronological time, especially a thing or person that belongs to an earlier time<br />
+【例】 The President tended to regard the Church as an anachronism. 总统常常认为教会属于落伍之物。‖ The bow and arrow is an anachronism in modern warfare.  弓箭在现代战争中早已过时。<br />
+【反】 fad, fashion, vogue  潮流，时尚<br />
+【考法2】n. 时代错误，年代误植（指所叙人、事与时代不符的错误）：an error in chronology in which a person, object, event, etc., is assigned a date or period other than the correct one<br />
+【例】 The last paragraph contains an anachronism: the Holy Office no longer existed at that time. 最后一段有一个时代错误：异端裁判所那时已经不存在了。</answer>
+  <modified>2014-02-02</modified>
+  <template-id>10031</template-id>
+  <question-audio>true</question-audio>
+</item>

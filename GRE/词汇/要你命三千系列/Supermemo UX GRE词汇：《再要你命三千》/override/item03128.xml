@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question-title>根据单词，回想词义 </question-title>
+  <question>tilt<br />
+[tɪlt]</question>
+  <answer>【考法1】 v.倾斜：to set or cause to be at an angle<br />
+【例】The mirrors are controlled by an electrical signal that causes it to tilt either toward or away from the laser source.  电信号控制着这组镜片，使其转向或者远离激光光源。<br />
+【近】angle, cant, heel, list, incline, pitch, slant, slope, tip<br />
+【反】erect  竖立<br />
+【考法2】n.倾斜：the act of positioning or an instance of being positioned at an angle<br />
+【例】She expressed her approval with a slight tilt of her head.  她斜着头，表达她的认可。<br />
+【近】bend, grade, gradient, inclination, lean, leaning</answer>
+  <modified>2014-02-02</modified>
+  <template-id>10031</template-id>
+  <question-audio>true</question-audio>
+</item>

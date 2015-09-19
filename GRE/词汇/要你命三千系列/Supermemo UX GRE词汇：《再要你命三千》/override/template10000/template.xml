@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<template name="eMagic">
+  <resolution width="512" height="384">
+    <background color="#d3ebda"/>
+      <image src="512.png" align="left top" />
+    <foreground>
+      <primary z-index="3">
+        <dimensions left="38" top="80" width="456" height="288" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </primary>
+      <command z-index="2">
+        <dimensions left="40" top="25" width="460" height="24" />
+        <margins left="0" right="0" top="0" bottom="0" />
+        <text color="#FFFFFF" size="8" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+      </command>
+      <chapter z-index="5">
+        <dimensions left="16" top="2" width="248" height="24" />
+        <margins left="0" right="0" top="0" bottom="0" />
+        <text color="#d3ebda" size="9" family="微软雅黑,华文细黑,Tahoma" style="bold " align="left" />
+      </chapter>
+      <lesson z-index="4">
+        <dimensions right="16" top="2" width="341" height="24" />
+        <margins left="0" right="0" top="0" bottom="0" />
+        <text color="#d3ebda" size="9" family="微软雅黑,华文细黑,Tahoma" style="bold " align="right" />
+      </lesson>
+      <media-question z-index="6">
+        <dimensions left="48" top="56" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </media-question>
+      <media-answer z-index="7">
+        <dimensions left="80" top="56" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </media-answer>
+      <gfx-1 name="Tło" z-index="1">
+        <dimensions left="0" top="0" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </gfx-1>
+    </foreground>
+    <styles>
+      <fonts>
+        <question color="#000000" size="12" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+        <answer color="#00004b" size="12" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+      </fonts>
+    </styles>
+  </resolution>
+  <resolution width="720" height="540">
+    <background color="#d3ebda" />
+      <image src="720.png" align="left top" />
+    <foreground>
+      <primary z-index="3">
+        <dimensions left="47" top="104" width="658" height="408" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </primary>
+      <command z-index="2">
+        <dimensions left="53" top="36" width="656" height="32" />
+        <margins left="0" right="0" top="0" bottom="0" />
+        <text color="#FFFFFF" size="13" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+      </command>
+      <chapter z-index="5">
+        <dimensions left="20" top="2" width="360" height="32" />
+        <margins left="4" right="4" top="4" bottom="4" />
+        <text color="#d3ebda" size="10" family="微软雅黑,华文细黑,Tahoma" style="bold " align="left" />
+      </chapter>
+      <lesson z-index="4">
+        <dimensions right="20" top="2" width="356" height="32" />
+        <margins left="4" right="4" top="4" bottom="4" />
+        <text color="#d3ebda" size="10" family="微软雅黑,华文细黑,Tahoma" style="bold " align="right" />
+      </lesson>
+      <media-question z-index="6">
+        <dimensions left="56" top="72" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </media-question>
+      <media-answer z-index="7">
+        <dimensions left="96" top="72" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </media-answer>
+      <gfx-1 name="Tło" z-index="1">
+        <dimensions left="0" top="0" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </gfx-1>
+    </foreground>
+    <styles>
+      <fonts>
+        <question color="#000000" size="16" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+        <answer color="#00004b" size="16" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+      </fonts>
+    </styles>
+  </resolution>
+  <resolution width="1024" height="768">
+    <background color="#d3ebda" />
+      <image src="1024.png" align="left top" />
+    <foreground>
+      <primary z-index="3">
+        <dimensions left="80" top="152" width="900" height="576" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </primary>
+      <command z-index="2">
+        <dimensions left="79" top="55" width="928" height="40" />
+        <margins left="0" right="0" top="0" bottom="0" />
+        <text color="#FFFFFF" size="16" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+      </command>
+      <chapter z-index="5">
+        <dimensions left="21" top="9" width="520" height="32" />
+        <margins left="2" right="2" top="2" bottom="2" />
+        <text color="#d3ebda" size="13" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+      </chapter>
+      <lesson z-index="4">
+        <dimensions right="21" top="9" width="512" height="32" />
+        <margins left="2" right="2" top="2" bottom="2" />
+        <text color="#d3ebda" size="13" family="微软雅黑,华文细黑,Tahoma" style="" align="right" />
+      </lesson>
+      <media-question z-index="6">
+        <dimensions left="88" top="104" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </media-question>
+      <media-answer z-index="7">
+        <dimensions left="136" top="104" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </media-answer>
+      <gfx-1 name="Tło" z-index="1">
+        <dimensions left="0" top="0" width="44" height="44" />
+        <margins left="0" right="0" top="0" bottom="0" />
+      </gfx-1>
+    </foreground>
+    <styles>
+      <fonts>
+        <question color="#000000" size="18" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+        <answer color="#00004b" size="18" family="微软雅黑,华文细黑,Tahoma" style="" align="left" />
+      </fonts>
+    </styles>
+  </resolution>
+</template>

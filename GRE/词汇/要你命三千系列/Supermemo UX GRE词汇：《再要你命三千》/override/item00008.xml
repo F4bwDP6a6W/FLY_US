@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
+  <chapter-title>List 1</chapter-title>
+  <question-title>根据单词，回想词义</question-title>
+  <question><span style="font-family: Comic Sans MS; font-weight: normal; color: #550000; font-style: normal">aberrant</span><br />
+<span style="font-family: 微软雅黑; font-weight: normal; color: #000000; font-style: normal">[<span style="font-family: Kingsoft Phonetic;">A5berEnt</span>]</span><br />
+</question>
+  <answer>【考法 1】 adj. 异常的： deviating from the usual or natural type<br />
+【例】 This behavior might be aberrant enough to draw attention. 这样的行为已经异常得足以引起人们的注意。<br />
+【近】 abnormal, anomalous, peculiar, singular, unwonted，uncustomary<br />
+【反】 normal, natural, regular, standard, typical 正常的，标准典型的<br />
+<br />
+【记】 ab + error 错误 →走错→越轨的<br />
+</answer>
+  <modified>2015-08-01</modified>
+  <template-id>10001</template-id>
+  <question-audio>true</question-audio>
+</item>

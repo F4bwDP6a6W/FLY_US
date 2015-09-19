@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question-title>根据单词，回想词义 </question-title>
+  <question>accustom<br />
+[əˈkʌstəm]</question>
+  <answer>【考法】vt.使习惯：to make familiar with something through use or experience<br />
+【例】As a kid from Southern California, the first challenge in his PhD life is to accustom himself to the harsh winter climate in Boston.  身为来自南加州的小孩，他博士生涯的第一道挑战就是习惯波士顿寒冷的冬天。|| If you are accustomed to timeseries analysis, you can develop new and more delicate quantitative models.  如果你对时间序列分析有所了解，你就能构建出更新、更精妙的定量模型。<br />
+【近】familiarize, habituate, inure, orient, wont<br />
+【反】alienate, estrange, wean  使疏远</answer>
+  <modified>2014-02-02</modified>
+  <template-id>10031</template-id>
+  <question-audio>true</question-audio>
+</item>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
+  <chapter-title>List 5</chapter-title>
+  <question-title>根据单词，回想词义</question-title>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">countermand</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5kaJntE7mAnd&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 取消，撤销： to revoke (a command) by a contrary order<br />
+【例】 countermand an order 撤销命令<br />
+【近】 annul, repeal, rescind, revoke, cancel<br />
+【反】 approve, permit, sanction 批准<br />
+<br />
+【记】 counter相反的 + command<br />
+</answer>
+  <modified>2015-07-26</modified>
+  <template-id>10005</template-id>
+  <question-audio>true</question-audio>
+</item>

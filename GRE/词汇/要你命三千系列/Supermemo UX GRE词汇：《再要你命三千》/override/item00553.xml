@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
+  <chapter-title>List 6</chapter-title>
+  <question-title>根据单词，回想词义</question-title>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">decipher</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;dI5saIfE&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 破译： to read or interpret (ambiguous, obscure, or illegible matter).<br />
+【例】 we deciphered the hidden message to find out when we were supposed to meet 破解了暗语后，发现我们要碰头<br />
+【近】 break, crack, decrypt, decode<br />
+【反】 cipher, encipher, encode, encrypt 加密<br />
+<br />
+【考法 2】 v. 有清晰想法，理解，解读： to have a clear idea of<br />
+【例】 a convoluted复杂的 thriller小说, the plot of which I was never able to actually decipher<br />
+【近】 apprehend, perceive, recognize, seize, sense, make out<br />
+<br />
+【记】 de反 + cipher加密→解密<br />
+【另】 encipher<br />
+</answer>
+  <modified>2015-07-26</modified>
+  <template-id>10006</template-id>
+  <question-audio>true</question-audio>
+</item>

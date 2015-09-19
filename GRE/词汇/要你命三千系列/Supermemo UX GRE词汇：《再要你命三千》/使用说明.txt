@@ -1,0 +1,22 @@
+Supermemo UX安装说明：	
+　一、安装前提：（win7和vista用户可以略过安装前提不看）
+  1.部分Windows XP系统可能需要先安装Microsoft .NET Framework v2.0(安装程序会有提示);Microsoft .NET Framework v2.0下载地址：http://www.microsoft.com/downloads/details.aspx?FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5&amp;displaylang=en
+  2.为了使SuperMemoUX能够更好地工作，系统内需要安装IE7.0（或更高版本），否则启动程序后会出现提示，部分功能将受限制;IE7下载页面:http://www.onlinedown.net/soft/48511.htm
+　二、安装步骤：　
+  1.Supermemo软件官方下载地址：http://www.supermemo.eu/download/smux/smux.zip，解压后运行setup.exe安装Supermemo UX。
+   （如果需要汉化请自行去http://emagic.org.cn/forum.php下载舍得汉化版SuperMemoUX.V1.4.6）。  
+  2.如果希望安装插件，电驴搜索supermemo，下载“SuperMemoUX 插件2.0”，按照使用说明可以使用插件。（插件含有一些扩展功能，嫌麻烦跳过此步骤也会不影响程序正常使用）	
+	插件使用方法：
+   	把Plugins文件夹复制SuperMemo到安装目录。先运行SuperMemo UX,然后再运行Plugins目录下的PluginsSystem.exe,在帮助菜单前会多出一列叫"wtyczki"的菜单,这就是插件菜单。
+	若在"用户"和"帮助"菜单之间出现"wtyczki"的菜单,说明插件系统已开始工作。
+	
+课程使用方法：
+　　1.解压后将文件夹复制到SuperMemoUX的courses文件夹下(亦可放置在其它文件夹)。
+　　2.打开supermemoux,点击菜单栏的Course－Subscribe－Open－找到刚才的course.smpak文件即可加入课程，开始学习。　　
+　　3.本压缩包中带有音标字体Ksphonet.TTF。如果音标不能正常显示，需要安装该字体：1）打开控制面板-字体；2）打开菜单"文件->安装新字体"；3）选择Ksphonet.TTF存放的文件夹，安装该字体。
+使用上若遇到问题,可到舍得英语魔法学苑(http://emagic.org.cn)发帖求助.
+
+相关网站：
+    舍得英语魔法学苑：http://eMagic.org.cn
+    下载中心:http://d.eMagic.org.cn
+    新浪博客:http://blog.sina.com.cn/learningpower
