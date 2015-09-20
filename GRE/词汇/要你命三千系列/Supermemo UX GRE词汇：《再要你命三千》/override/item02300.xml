@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>solitude</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5sRlItju:d&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 孤独，避世：  the quality or state of being alone or remote from society&lt;br&gt;【例】  He sought the kind of solitude where his thoughts would be his only companions.  他在寻找一种孤独感，只有他的思想陪伴着他。‖She wished to work on her novel in solitude. 她想一个人安静地完成小说。&lt;br&gt;【近】  aloneness, insulation, privacy, seclusion, segregation, separateness, sequestration, solitariness&lt;br&gt;【反】  camaraderie, companionship, company, comradeship, fellowship, society 陪伴&lt;br&gt;&lt;br&gt;【记】  sole isolated + itude 情况，状态；attitude<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">solitude</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5sRlItju:d&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 孤独 the quality or state of being alone or remote from society<br />
+【例】 He sought the kind of solitude where his thoughts would be his only companions. 他在寻找一种孤独感，只有他的思想陪伴着他。‖She wished to work on her novel in solitude. 她想一个人安静地完成小说。<br />
+【近】 aloneness, insulation, privacy, seclusion, segregation, separateness, sequestration, solitariness<br />
+【反】 camaraderie, companionship, company, comradeship, fellowship, society 陪伴<br />
+<br />
+【记】 sole isolated + itude 情况，状态；attitude<br />
+</answer>
+  <modified>2015-09-19</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>

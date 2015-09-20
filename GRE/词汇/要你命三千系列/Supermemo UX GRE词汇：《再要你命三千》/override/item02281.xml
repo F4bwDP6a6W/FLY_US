@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>smattering</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5smAtErIN&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 浅薄的知识：  superficialor piecemeal knowledge&lt;br&gt;【例】  a smattering of Greek grammar  略懂希腊语语法&lt;br&gt;【反】  erudition  博学；insight 深刻的见解&lt;br&gt;&lt;br&gt;【考法 2】  n. 少量：  a small scattered number or amount&lt;br&gt;【例】  Only a smattering of spectators presented.  只有少数几个观看者出席了。&lt;br&gt;【反】 ace, bit,driblet, glimmer, handful, hint, mite, mouthful, nip, ounce, pittance,sprinkle, trace&lt;br&gt;【近】  abundance,bundle, dozen, multiplicity, myriad, plentitude, profusion, scad, shipload, slew, volume, wealth大量&lt;br&gt;&lt;br&gt;【记】  smarter 更聪明，他以为他比别人聪明，其实只是略知一二；s 音：说 + matter 事 + er 说事者&lt;br&gt;，说得都是肤浅的；&lt;br&gt;【另】  prattle 说孩子气的话, 唠叨, 无聊话, stutter 口吃,<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">smattering</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5smAtErIN&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 浅薄的知识： superficialor piecemeal knowledge<br />
+【例】 a smattering of Greek grammar 略懂希腊语语法<br />
+【反】 erudition 博学；insight 深刻的见解<br />
+<br />
+【考法 2】 n. 少量： a small scattered number or amount<br />
+【例】 Only a smattering of spectators presented. 只有少数几个观看者出席了。<br />
+【近】 ace, bit,driblet, glimmer, handful, hint, mite, mouthful, nip, ounce, pittance,sprinkle, trace<br />
+【反】 abundance,bundle, dozen, multiplicity, myriad, plentitude, profusion, scad, shipload, slew, volume, wealth大量<br />
+<br />
+【记】 smarter 更聪明，他以为他比别人聪明，其实只是略知一二；s 音：说 + matter 事 + er 说事者<br />
+，说得都是肤浅的；<br />
+【另】 prattle 说孩子气的话, 唠叨, 无聊话, stutter 口吃,<br />
+</answer>
+  <modified>2015-09-19</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>
