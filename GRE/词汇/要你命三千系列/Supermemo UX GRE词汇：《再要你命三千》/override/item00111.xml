@@ -1,11 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 2</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>animate</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5Animeit&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 活的：having or showing life&lt;br&gt;【例】The lecture was about ancient worship of animate and inanimate objects.  演讲是关于对生命体和非生命体的古代崇拜。&lt;br&gt;【近】breathing, live, living&lt;br&gt;【反】dead, expired, deceased, lifeless, nonliving 无生命的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 有活力的：having much high-spirited energy and movement&lt;br&gt;【例】Animate dance will get the blood pumping.  有活力的舞蹈会让人热血沸腾。&lt;br&gt;【近】bouncing, brisk, energetic, sprightly, vivacious&lt;br&gt;【反】inactive, lackadaisical, languid, listless, leaden  没有活力的，无精打采的&lt;br&gt;&lt;br&gt;【考法 3】  v. 使有活力，支持：to give spirit and support to&lt;br&gt;【例】The writer's humor animates the novel.   作者的幽默使小说富有生命力。&lt;br&gt;【近】brace, energize, enliven, invigorate, ginger (up), pep up, vitalize 使有活力&lt;br&gt;【反】damp, dampen, deaden 使没活力&lt;br&gt;【派】animation 生命力，活力：the quality or condition of being alive, active, spirited, or vigorous.&lt;br&gt;【反】lassitude, lethargy 疲倦,疲乏&lt;br&gt;&lt;br&gt;【考法 4】  v. 使行动，驱使：to move to action&lt;br&gt;【例】a criminal animated by greed 一个受贪婪驱使的罪犯&lt;br&gt;【近】goad, prod, spur, galvanize, stimulate&lt;br&gt;【考法  5】  v. 使活灵活现，使栩栩如生：to make or design in such a way as to create apparently spontaneous lifelike movement&lt;br&gt;【例】Kongfu Panda's very realistic panda was animated by CG.  《功夫熊猫》电影里面的熊猫是通过 CG 技术使熊猫变得活灵活现的。&lt;br&gt;&lt;br&gt;【记】  同源于animal 动物，是有生命的<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">animate</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5Animeit&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 活的：having or showing life<br />
+【例】The lecture was about ancient worship of animate and inanimate objects. 演讲是关于对生命体和非生命体的古代崇拜。<br />
+【近】breathing, live, living<br />
+【反】dead, expired, deceased, lifeless, nonliving 无生命的<br />
+<br />
+【考法 2】 adj. 有活力的：having much high-spirited energy and movement<br />
+【例】Animate dance will get the blood pumping. 有活力的舞蹈会让人热血沸腾。<br />
+【近】bouncing, brisk, energetic, sprightly, vivacious<br />
+【反】inactive, lackadaisical, languid, listless, leaden 没有活力的，无精打采的<br />
+<br />
+【考法 3】 v. 使有活力，支持：to give spirit and support to<br />
+【例】The writer's humor animates the novel. 作者的幽默使小说富有生命力。<br />
+【近】brace, energize, enliven, invigorate, ginger (up), pep up, vitalize 使有活力<br />
+【反】damp, dampen, deaden 使没活力<br />
+【派】animation 生命力，活力：the quality or condition of being alive, active, spirited, or vigorous.<br />
+【反】lassitude, lethargy 疲倦,疲乏<br />
+<br />
+【考法 4】 v. 使行动，驱使：to move to action<br />
+【例】a criminal animated by greed 一个受贪婪驱使的罪犯<br />
+【近】goad, prod, spur, galvanize, stimulate<br />
+<br />
+【考法 5】 v. 使活灵活现，使栩栩如生：to make or design in such a way as to create apparently spontaneous lifelike movement<br />
+【例】Kongfu Panda's very realistic panda was animated by CG. 《功夫熊猫》电影里面的熊猫是通过 CG 技术使熊猫变得活灵活现的。<br />
+<br />
+【记】 同源于animal 动物，是有生命的<br />
+<br />
+<br />
+</answer>
+  <modified>2015-09-21</modified>
+  <template-id>10002</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10002</template-id>
 </item>
