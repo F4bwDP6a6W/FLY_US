@@ -1,11 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 24</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>strike</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;straIk&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 攻击：  the act or action of setting upon with force or violence&lt;br&gt;【例】  The first strike was directed at a munitions warehouse. 第一轮攻击的目标是军火仓库。&lt;br&gt;【近】  aggression, assault, charge, offense, onset, onslaught, raid, rush&lt;br&gt;&lt;br&gt;【考法 2】  vt. 铸造（奖牌）：  to form by stamping, printing, or punching&lt;br&gt;【近】  build, fabricate, forge, form, make, mold, shape&lt;br&gt;&lt;br&gt;【考法 3】  vt. 击打：  to aim and usually deliver a blow, stroke, or thrust (as with the hand, a weapon, or a tool)&lt;br&gt;【例】  angrily stuck the security guard  愤怒地殴打保安&lt;br&gt;【近】  bat, beat, hammer, hit, knock, nail, punch, swat&lt;br&gt;&lt;br&gt;【考法 4】  vt. 袭击，攻击：  to take sudden, violent action against&lt;br&gt;【例】  A rattlesnake strikes its prey with lightning speed.  响尾蛇以惊人的速度攻击了它的猎物。&lt;br&gt;【近】  assail, beset, storm, set on&lt;br&gt;【考法 5】  vt. 撞击：  to come into usually forceful contact with something&lt;br&gt;【例】  One bullet-train struck the other one which had been forced to stop on a viaduct due to lightning strike, resulting in huge casualties.  一辆动车撞向了另一辆因雷击而停在高架桥上的动车，造成了巨大的人员伤亡。&lt;br&gt;【近】  bang, bash, bump, collide, crash, impact, impinge, ram, slam, smash, swipe, thud&lt;br&gt;【派】  striking  adj. 引人注目的&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">strike</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;straIk&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 攻击： the act or action of setting upon with force or violence<br />
+【例】 The first strike was directed at a munitions warehouse. 第一轮攻击的目标是军火仓库。<br />
+【近】 aggression, assault, charge, offense, onset, onslaught, raid, rush<br />
+<br />
+【考法 2】 vt. 铸造（奖牌）： to form by stamping, printing, or punching<br />
+【近】 build, fabricate, forge, form, make, mold, shape<br />
+<br />
+【考法 3】 vt. 击打： to aim and usually deliver a blow, stroke, or thrust (as with the hand, a weapon, or a tool)<br />
+【例】 angrily stuck the security guard 愤怒地殴打保安<br />
+【近】 bat, beat, hammer, hit, knock, nail, punch, swat<br />
+<br />
+【考法 4】 vt. 袭击，攻击： to take sudden, violent action against<br />
+【例】 A rattlesnake strikes its prey with lightning speed. 响尾蛇以惊人的速度攻击了它的猎物。<br />
+【近】 assail, beset, storm, set on<br />
+<br />
+【考法 5】 vt. 撞击： to come into usually forceful contact with something<br />
+【例】 One bullet-train struck the other one which had been forced to stop on a viaduct due to lightning strike, resulting in huge casualties. 一辆动车撞向了另一辆因雷击而停在高架桥上的动车，造成了巨大的人员伤亡。<br />
+【近】 bang, bash, bump, collide, crash, impact, impinge, ram, slam, smash, swipe, thud<br />
+【派】 striking adj. 引人注目的<br />
+<br />
+【考法 6】罢工<br />
+<br />
+<br />
+<br />
+</answer>
+  <modified>2015-09-23</modified>
+  <template-id>10024</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10024</template-id>
 </item>

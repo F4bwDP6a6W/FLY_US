@@ -1,11 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 24</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>subject</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;sEb5dVekt&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 臣民，受支配的人：  one that is placed under authority or control&lt;br&gt;【例】  Because of the tense situation in that country, British subjects were advised to return home as soon as possible. 因为该国紧张的局势，英国公民被建议尽快返回英国国内。&lt;br&gt;【近】  citizen, national&lt;br&gt;【反】  alien 外来人；potentate  统治者&lt;br&gt;&lt;br&gt;【考法 2】  adj. 取决于其他因素的：  contingent on or under the influence of some later action&lt;br&gt;【例】  The price of seafood is subject to weather conditions.  海鲜的价格受天气影响。&lt;br&gt;【近】  affected, conditional, contingent, dependent, reliant, subordinate&lt;br&gt;【反】  independent, unconditional  独立的&lt;br&gt;&lt;br&gt;【记】  sub 下面，ject 扔：扔到下面－臣服者<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">subject</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;sEb5dVekt&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 臣民，受支配的人： one that is placed under authority or control<br />
+【例】 Because of the tense situation in that country, British subjects were advised to return home as soon as possible. 因为该国紧张的局势，英国公民被建议尽快返回英国国内。<br />
+【近】 citizen, national<br />
+【反】 alien 外来人；potentate 统治者<br />
+<br />
+【考法 2】 adj. 取决于其他因素的： contingent on or under the influence of some later action<br />
+【例】 The price of seafood is subject to weather conditions. 海鲜的价格受天气影响。<br />
+【近】 affected, conditional, contingent, dependent, reliant, subordinate<br />
+【反】 independent, unconditional 独立的<br />
+<br />
+【考法 3】n. 主题<br />
+<br />
+【记】 sub 下面，ject 扔：扔到下面－臣服者<br />
+<br />
+<br />
+</answer>
+  <modified>2015-09-24</modified>
+  <template-id>10024</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10024</template-id>
 </item>
