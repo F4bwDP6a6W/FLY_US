@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 26</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>unctuous</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5QNktjJEs&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 油嘴滑舌的，谄媚的：  overly or insincerely flattering&lt;br&gt;【例】  an unctuous appraisal of the musical talent shown by the boss's daughter 拍老板马屁，说他女儿音乐剧的才能非常卓越&lt;br&gt;【近】  adulatory, gushing, hagiographic, oily, oleaginous, soapy&lt;br&gt;&lt;br&gt;【考法 2】  adj. 夸张的，做作的：  characterized by affected, exaggerated, or insincere earnestness&lt;br&gt;【例】  an unctuous effort to appear religious to the voters 过分做作想在选民面前表现地虔诚&lt;br&gt;【近】  artificial, backhanded, counterfeit, fake, feigned, hypocritical, phony, pretended&lt;br&gt;【反】  artless, candid, genuine, heartfelt, honest, sincere, undesigning, unfeigned  真实的&lt;br&gt;&lt;br&gt;【记】  anxious 渴望的，担忧的人为了达到目的说话油腔滑调&lt;br&gt;【另】  为了增加action 动作，举动，喊加油，油→unction 涂油礼, 油膏, 虚情假意, 浓厚兴趣<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">unctuous</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5QNktjJEs&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj.谄媚的： overly or insincerely flattering<br />
+【例】 an unctuous appraisal of the musical talent shown by the boss's daughter 拍老板马屁，说他女儿音乐剧的才能非常卓越<br />
+【近】 adulatory, gushing, hagiographic, oily, oleaginous, soapy<br />
+<br />
+【考法 2】 adj. 夸张的： characterized by affected, exaggerated, or insincere earnestness<br />
+【例】 an unctuous effort to appear religious to the voters 过分做作想在选民面前表现地虔诚<br />
+【近】 artificial, backhanded, counterfeit, fake, feigned, hypocritical, phony, pretended<br />
+【反】 artless, candid, genuine, heartfelt, honest, sincere, undesigning, unfeigned 真实的<br />
+<br />
+【记】 anxious 渴望的，担忧的人为了达到目的说话油腔滑调<br />
+【另】 为了增加action 动作，举动，喊加油，油→unction 涂油礼, 油膏, 虚情假意, 浓厚兴趣<br />
+</answer>
+  <modified>2015-09-29</modified>
+  <template-id>10026</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10026</template-id>
 </item>

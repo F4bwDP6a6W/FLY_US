@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>slipshod</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5slIpFRd&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 粗心的，随意的：  marked by carelessness  or  indifference to exactness, precision, and accuracy&lt;br&gt;【例】  a slipshod piece of research 一项随意的研究‖The hotel had always been run in a slipshod way. 酒店总是在以一种随意的状态运营。&lt;br&gt;【近】  botchy, careless, messy, slapdash, sloppy, slovenly, untidy&lt;br&gt;【反】  fastidious, meticulous  极仔细的；accurate, exact, precise 准确的&lt;br&gt;&lt;br&gt;【记】  slipper拖鞋 + shod(shoe 的过去时)，总是穿着拖鞋的<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">slipshod</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5slIpFRd&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 粗心的，马虎的： marked by carelessness or indifference to exactness, precision, and accuracy<br />
+【例】 a slipshod piece of research 一项随意的研究‖The hotel had always been run in a slipshod way. 酒店总是在以一种随意的状态运营。<br />
+【近】 botchy, careless, messy, slapdash, sloppy, slovenly, untidy<br />
+【反】 fastidious, meticulous 极仔细的；accurate, exact, precise 准确的<br />
+<br />
+【记】 slipper拖鞋 + shod(shoe 的过去时)，总是穿着拖鞋的<br />
+</answer>
+  <modified>2015-09-26</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>

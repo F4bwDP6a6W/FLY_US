@@ -6,7 +6,7 @@
   <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">beleaguer</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;bI5li:^E&lt;/font&gt;]</span><br /></question>
   <answer>【考法 1】 vt. 围困： to surround (as a fortified place) with armed forces for the purpose of capturing or preventing commerce and communication<br />
 【例】 beleaguered the castle for months 围攻堡垒长达数月<br />
-【近】 siege[sidʒ], besiege, invest, blockade<br />
+【近】 siege[sidʒ]vt. 围攻；包围, besiege, invest, blockade<br />
 【反】 retreat, withdraw 撤退<br />
 <br />
 【考法 2】 vt. 使困扰，使烦恼，使消沉： trouble, harass, beset<br />
@@ -19,7 +19,7 @@
 【另】 colleague<br />
 An hour in the morning is worth two in the evening. 一日之计在于晨。<br />
 </answer>
-  <modified>2015-08-06</modified>
+  <modified>2015-09-26</modified>
   <template-id>10003</template-id>
   <question-audio>true</question-audio>
 </item>
