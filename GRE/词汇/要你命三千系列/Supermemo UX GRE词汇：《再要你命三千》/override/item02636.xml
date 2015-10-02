@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 27</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>versatile</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5v\:sEtaIl&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 多才多艺的，全能的：  able to do many different kinds of things&lt;br&gt;【例】 We have found a versatile baseball player who can play any position.  我们发现了一个能打任何位置的全能型球员。&lt;br&gt;【近】  adaptable, all-around, ambidextrous, protean, universal&lt;br&gt;【反】  limited  受限制的，有限的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 易改变的：  changing or fluctuating readily&lt;br&gt;【例】  a versatile disposition  多变的性格&lt;br&gt;【近】  capricious, changeable, fluid, inconstant, mercurial, skittish, temperamental, variable, volatile&lt;br&gt;【反】  certain, changeless, constant, immutable, invariable, settled, stable, stationary, steady, unchangeable, unvarying  固定的，不变的&lt;br&gt;&lt;br&gt;【记】  diverse 不同的, 变化多的，university uni + versati 综合性大学什么都教，有多种专业&lt;br&gt;【另】  universe 宇宙<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">versatile</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5v\:sEtaIl&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 多才多艺的： able to do many different kinds of things<br />
+【例】 We have found a versatile baseball player who can play any position. 我们发现了一个能打任何位置的全能型球员。<br />
+【近】 adaptable, all-around, ambidextrous, protean, universal<br />
+【反】 limited 受限制的，有限的<br />
+<br />
+【考法 2】 adj. 易改变的： changing or fluctuating readily<br />
+【例】 a versatile disposition 多变的性格<br />
+【近】 capricious, changeable, fluid, inconstant, mercurial, skittish, temperamental, variable, volatile<br />
+【反】 certain, changeless, constant, immutable, invariable, settled, stable, stationary, steady, unchangeable, unvarying 固定的，不变的<br />
+<br />
+【记】 diverse 不同的, 变化多的，university uni + versati 综合性大学什么都教，有多种专业<br />
+【另】 universe 宇宙<br />
+</answer>
+  <modified>2015-10-02</modified>
+  <template-id>10027</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10027</template-id>
 </item>

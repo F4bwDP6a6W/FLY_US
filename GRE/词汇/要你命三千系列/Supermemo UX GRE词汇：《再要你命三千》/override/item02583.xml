@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 26</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>unexceptionable</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;QnIk5sepFEnEbl&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 无懈可击的：  not open to objection or criticism, beyond reproach&lt;br&gt;【近】  unassailable, undeniable, irrefutable, indisputable, unexceptionable, unimpeachable&lt;br&gt;【反】  assailable, controversial 有争议的&lt;br&gt;&lt;br&gt;【记】  un 不，exceptionable（adj.可反对的）：无懈可击的<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">unexceptionable</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;QnIk5sepFEnEbl&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 无懈可击的,无可争议的： not open to objection or criticism, beyond reproach<br />
+【近】 unassailable, undeniable, irrefutable, indisputable, unexceptionable, unimpeachable<br />
+【反】 assailable, controversial 有争议的<br />
+<br />
+【记】 un 不，exceptionable（adj.可反对的）：无懈可击的<br />
+</answer>
+  <modified>2015-10-02</modified>
+  <template-id>10026</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10026</template-id>
 </item>

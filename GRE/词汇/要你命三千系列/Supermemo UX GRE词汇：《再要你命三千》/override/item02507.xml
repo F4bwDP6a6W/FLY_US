@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 25</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>tether</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5teTE&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt.（用绳，铁链）拴系，束缚：  to fasten or restrain by or as if by a tether&lt;br&gt;【例】 They tethered the horses in the shade.  他们把马摔在棚子里&lt;br&gt;【反】 detach, tear loose  分开，撕裂&lt;br&gt;&lt;br&gt;【考法 2】  n. 能力或忍耐力的极限：  the limit of one's strength or resources&lt;br&gt;【例】  drought-stricken farmers at the end of their tether  受干旱打击的农民忍无可忍&lt;br&gt;&lt;br&gt;【记】  tight her 捆紧她(母牛)；together 一起，弄到一起，用绳子拴在一起；音：逮 + her 逮着她，抓着她，拴起来<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">tether</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5teTE&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt.拴系，束缚： to fasten or restrain by or as if by a tether<br />
+【例】 They tethered the horses in the shade. 他们把马摔在棚子里<br />
+【反】 detach, tear loose 分开，撕裂<br />
+<br />
+【考法 2】 n. 能力或忍耐力的极限： the limit of one's strength or resources<br />
+【例】 drought-stricken farmers at the end of their tether 受干旱打击的农民忍无可忍<br />
+<br />
+【记】 tight her 捆紧她(母牛)；together 一起，弄到一起，用绳子拴在一起；音：逮 + her 逮着她，抓着她，拴起来<br />
+</answer>
+  <modified>2015-10-02</modified>
+  <template-id>10025</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10025</template-id>
 </item>

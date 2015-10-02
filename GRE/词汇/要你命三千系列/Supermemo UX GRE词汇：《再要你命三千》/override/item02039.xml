@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 21</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>relentless</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;rI5lentlis&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 残酷的，无情的：  showing or promising no abatement of severity, intensity, strength, or pace&lt;br&gt;【例】  He was the most teacher enemy I have ever known.  他是我所知的最狠的老师。&lt;br&gt;【近】  grim, inexorable, ironfisted, merciless, mortal, ruthless, unrelenting&lt;br&gt;【反】  charitable, clement, merciful, lenient  仁慈的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 固执的，不肯妥协的：  showing no signs of slackening or yielding in one's purpose&lt;br&gt;【例】  The team's offense was relentless in trying to score.  进攻球员毫不妥协地努力得分。&lt;br&gt;【近】  adamant, dogged, headstrong, mulish, obdurate, pertinacious, rigid, uncompromising, unyielding&lt;br&gt;【反】  acquiescent, amenable, compliant, complying, flexible, pliable, pliant, relenting, yielding  易屈服的&lt;br&gt;&lt;br&gt;【记】  relent + less<br/></answer>
+  <question><span style="font-family: Comic Sans MS; font-weight: normal; color: #550000; font-style: normal">relentless</span><br />
+<span style="font-family: 微软雅黑; font-weight: normal; color: #000000; font-style: normal">[<span style="font-family: Kingsoft Phonetic;">rI5lentlis</span>]</span><br />
+</question>
+  <answer>【考法 1】 adj. 残酷的，无情的： showing or promising no abatement of severity, intensity, strength, or pace<br />
+【例】 He was the most relentless teacher I have ever known. 他是我所知的最狠的老师。<br />
+【近】 grim, inexorable, ironfisted, merciless, mortal, ruthless, unrelenting<br />
+【反】 charitable, clement, merciful, lenient 仁慈的<br />
+<br />
+【考法 2】 adj. 固执的，不肯妥协的： showing no signs of slackening or yielding in one's purpose<br />
+【例】 The team's offense was relentless in trying to score. 进攻球员毫不妥协地努力得分。<br />
+【近】 adamant, dogged, headstrong, mulish, obdurate, pertinacious, rigid, uncompromising, unyielding<br />
+【反】 acquiescent, amenable, compliant, complying, flexible, pliable, pliant, relenting, yielding 易屈服的<br />
+<br />
+【记】 relent + less<br />
+</answer>
+  <modified>2015-10-02</modified>
+  <template-id>10021</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10021</template-id>
 </item>
