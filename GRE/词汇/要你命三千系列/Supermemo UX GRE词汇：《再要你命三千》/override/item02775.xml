@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>hobble</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5hCbEl&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vi. 跛行，蹒跚而行：  to walk or move along haltingly or with difficulty&lt;br&gt;【例】  She picked up her cane and hobbled across the room. 她拿起了一根手杖，一拐一拐地穿过了房间。&lt;br&gt;【近】  falter, halt, limp, stagger, totter&lt;br&gt;【反】  stride 大步走&lt;br&gt;&lt;br&gt;【考法 2】  vt. 阻碍，妨碍：  to hamper the action or progress of&lt;br&gt;【例】 We were hobbled by the snowstorm from getting out to do some Christmas shopping.  暴雪阻碍了我们圣诞购物的计划。&lt;br&gt;【近】  encumber, fetter, handicap, hamper, hinder, impede, inhibit, manacle, obstruct, shackle, stymie, trammel&lt;br&gt;【反】  aid, assist, facilitate  帮助&lt;br&gt;&lt;br&gt;【记】  音：猴步，猴子走步(用两条腿)是蹒跚的，当然它四条腿爬跳时是很快的；音：滑步，滑一步差点摔倒→蹒跚<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">hobble</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5hCbEl&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vi. 蹒跚： to walk or move along haltingly or with difficulty<br />
+【例】 She picked up her cane and hobbled across the room. 她拿起了一根手杖，一拐一拐地穿过了房间。<br />
+【近】 falter, halt, limp, stagger, totter<br />
+【反】 stride 大步走<br />
+<br />
+【考法 2】 vt. 阻碍，妨碍： to hamper the action or progress of<br />
+【例】 We were hobbled by the snowstorm from getting out to do some Christmas shopping. 暴雪阻碍了我们圣诞购物的计划。<br />
+【近】 encumber, fetter, handicap, hamper, hinder, impede, inhibit, manacle, obstruct, shackle, stymie, trammel<br />
+【反】 aid, assist, facilitate 帮助<br />
+<br />
+【记】 音：猴步，猴子走步(用两条腿)是蹒跚的，当然它四条腿爬跳时是很快的；音：滑步，滑一步差点摔倒→蹒跚<br />
+</answer>
+  <modified>2015-10-04</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

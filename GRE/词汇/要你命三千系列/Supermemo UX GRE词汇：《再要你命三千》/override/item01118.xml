@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 12</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>haven</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5heivn&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 安全的地方：  a place of safety&lt;br&gt;【例】  a haven for artists  艺术家们的圣地&lt;br&gt;【近】  asylum, harbor, refuge, retreat, sanctuary&lt;br&gt;【反】 unsafe place, dangerous place  不安全的地方&lt;br&gt;&lt;br&gt;【记】  heaven是一个安息所及避难所<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">haven</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5heivn&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 安全的地方; 庇护所： a place of safety<br />
+【例】 a haven for artists 艺术家们的圣地<br />
+【近】 asylum, harbor, refuge, retreat, sanctuary<br />
+【反】 unsafe place, dangerous place 不安全的地方<br />
+<br />
+【记】 heaven是一个安息所及避难所<br />
+</answer>
+  <modified>2015-10-02</modified>
+  <template-id>10012</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10012</template-id>
 </item>

@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 26</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>turgid</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5t\:dVId&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 浮夸的，过分装饰的：  excessively embellished in style or language&lt;br&gt;【例】 turgid prose  浮华的散文&lt;br&gt;【近】  flatulent, bombastic, pompous&lt;br&gt;【反】 simple, austere, unadorned, undecorated, unembellished  简朴的&lt;br&gt;&lt;br&gt;【记】  音：托G的，考托考G这几年报考人数增多→浮肿，且呈浮夸风气，考题内容也过于夸张，复杂，华而不实→浮夸；音：特挤，挤得 身上都肿了<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">turgid</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5t\:dVId&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 浮夸的： excessively embellished in style or language<br />
+【例】 turgid prose 浮华的散文<br />
+【近】 flatulent, bombastic, pompous<br />
+【反】 simple, austere, unadorned, undecorated, unembellished 简朴的<br />
+<br />
+【记】 音：托G的，考托考G这几年报考人数增多→浮肿，且呈浮夸风气，考题内容也过于夸张，复杂，华而不实→浮夸；音：特挤，挤得 身上都肿了<br />
+</answer>
+  <modified>2015-10-03</modified>
+  <template-id>10026</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10026</template-id>
 </item>

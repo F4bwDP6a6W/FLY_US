@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>madcap</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5mAdkAp&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 热爱冒险的人：  a person who  seeks out very dangerous or  foolhardy adventures with no apparent fear&lt;br&gt;【例】  an incorrigible madcap who loves drag racing and white-water rafting 一个热爱飙车和激流竹筏的无药可救的冒险狂&lt;br&gt;【近】  daredevil, madman&lt;br&gt;&lt;br&gt;【考法 2】  adj. 大胆的，鲁莽的：  behaving or acting impulsively or rashly;foolishly adventurous or bold&lt;br&gt;【例】  They switched from one madcap scheme to another.  他们从一个鲁莽的方案换到了另一个。&lt;br&gt;【近】  audacious, bold, brash, daredevil, overbold, overconfident, reckless, temerarious&lt;br&gt;【反】  careful, cautious, circumspect, guarded, heedful, prudent, wary  谨慎的，小心的&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">madcap</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5mAdkAp&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 大胆的，鲁莽的： behaving or acting impulsively or rashly;foolishly adventurous or bold<br />
+【例】 They switched from one madcap scheme to another. 他们从一个鲁莽的方案换到了另一个。<br />
+【近】 audacious, bold, brash, daredevil, overbold, overconfident, reckless, temerarious<br />
+【反】 careful, cautious, circumspect, guarded, heedful, prudent, wary 谨慎的，小心的<br />
+<br />
+【考法 2】 n. 热爱冒险的人： a person who seeks out very dangerous or foolhardy adventures with no apparent fear<br />
+【例】 an incorrigible madcap who loves drag racing and white-water rafting 一个热爱飙车和激流竹筏的无药可救的冒险狂<br />
+【近】 daredevil, madman<br />
+<br />
+<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-04</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

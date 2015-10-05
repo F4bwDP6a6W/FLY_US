@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 27</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>vindicate</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5vIndIkeIt&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt. 为…平反，为…辩护，使无罪：  to free from allegation or blame&lt;br&gt;【例】  The evidence would completely vindicate him. 这个证据将彻底证明他的清白。&lt;br&gt;【近】  absolve, acquit, exculpate, exonerate&lt;br&gt;【反】  incriminate  使有罪&lt;br&gt;&lt;br&gt;【考法 2】vt. 证明，证实：to give evidence or testimony to the truth or factualness of&lt;br&gt;【例】  Recent discoveries have generally vindicated the physicist's theories.  近期的发现整体上证明了物理学家的理论。&lt;br&gt;【近】  attest, authenticate, certify, corroborate, substantiate, support, validate, verify&lt;br&gt;【反】  disprove, rebut, refute  反驳，驳斥&lt;br&gt;&lt;br&gt;【记】  源自venge 报仇；win + dictate 口述→胜利演说，证明我当初是正确的，对(敌人)进行报复，维护了权利，抵制了敌人的进攻<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">vindicate</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5vIndIkeIt&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 为…平反，使无罪： to free from allegation or blame<br />
+【例】 The evidence would completely vindicate him. 这个证据将彻底证明他的清白。<br />
+【近】 absolve, acquit, exculpate, exonerate<br />
+【反】 incriminate 使有罪<br />
+<br />
+【考法 2】vt. 证明，证实：to give evidence or testimony to the truth or factualness of<br />
+【例】 Recent discoveries have generally vindicated the physicist's theories. 近期的发现整体上证明了物理学家的理论。<br />
+【近】 attest, authenticate, certify, corroborate, substantiate, support, validate, verify<br />
+【反】 disprove, rebut, refute 反驳，驳斥<br />
+<br />
+【记】 源自venge 报仇；win + dictate 口述→胜利演说，证明我当初是正确的，对(敌人)进行报复，维护了权利，抵制了敌人的进攻<br />
+</answer>
+  <modified>2015-10-03</modified>
+  <template-id>10027</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10027</template-id>
 </item>

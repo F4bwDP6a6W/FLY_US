@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 27</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>voracious</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;vE5reIFEs&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 有很大食量的，贪吃的：  having a huge appetite&lt;br&gt;【例】  He has a voracious appetite.  他的食量惊人。&lt;br&gt;【近】  edacious, esurient, gluttonous, swinish&lt;br&gt;【反】  abstemious, abstentious  有节制的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 贪婪的，如饥似渴的：  having or marked by an insatiable appetite for an activity or pursuit&lt;br&gt;【例】  a voracious reader who locked himself up in the study  一个把自己锁在书房的贪婪的读者&lt;br&gt;【近】  acquisitive, avid, covetous, grasping, greedy, hungry, rapacious, ravenous, thirsty&lt;br&gt;【反】  apathetic, indifferent, uneager, unenthusiastic 无所谓的&lt;br&gt;【派】  voracity  n. 食欲，贪婪&lt;br&gt;&lt;br&gt;【记】  源自swallow(w=v,a=o, ll=r), devour；有点象声词的味道，象是狼或老虎大吃的声音<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">voracious</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;vE5reIFEs&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 贪吃的： having a huge appetite<br />
+【例】 He has a voracious appetite. 他的食量惊人。<br />
+【近】 edacious, esurient, gluttonous, swinish<br />
+【反】 abstemious, abstentious 有节制的<br />
+<br />
+【考法 2】 adj. 贪婪的： having or marked by an insatiable appetite for an activity or pursuit<br />
+【例】 a voracious reader who locked himself up in the study 一个把自己锁在书房的贪婪的读者<br />
+【近】 acquisitive, avid, covetous, grasping, greedy, hungry, rapacious, ravenous, thirsty<br />
+【反】 apathetic, indifferent, uneager, unenthusiastic 无所谓的<br />
+【派】 voracity n. 食欲，贪婪<br />
+<br />
+【记】 源自swallow(w=v,a=o, ll=r), devour；有点象声词的味道，象是狼或老虎大吃的声音<br />
+</answer>
+  <modified>2015-10-03</modified>
+  <template-id>10027</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10027</template-id>
 </item>
