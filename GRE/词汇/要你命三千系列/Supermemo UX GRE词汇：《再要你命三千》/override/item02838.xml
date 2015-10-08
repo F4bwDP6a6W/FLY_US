@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 29</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>august</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;C:5gQst&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 威严的，庄重的：  having or showing a formal and serious or reserved manner&lt;br&gt;【例】  Unsurprisingly, the head of the bank is an august white-haired gentleman.  不出所料的，银行的总裁是一名白发苍苍的、令人顿生敬意的绅士。&lt;br&gt;【近】  distinguished, imposing, portly, solemn, staid, stately&lt;br&gt;【反】  flighty, frivolous, giddy, goofy, silly, undignified 轻浮的，不庄重的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 盛大的，令人印象深刻的：  large and impressive in size, grandeur, extent, or conception&lt;br&gt;【例】  an august golden anniversary celebration for the company  盛大的周年庆祝会&lt;br&gt;【近】  baronial, epic, grandiose, imperial, magnificent, majestic, massive, monumental, noble, regal, splendid&lt;br&gt;【反】  common, humble, mediocre, ordinary, unimposing, unimpressive  普通的，一般的&lt;br&gt;&lt;br&gt;【记】  august 八月份是占卜季节，仪式非常威严高贵<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">august</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;C:5gQst&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 威严的： having or showing a formal and serious or reserved manner<br />
+【例】 Unsurprisingly, the head of the bank is an august white-haired gentleman. 不出所料的，银行的总裁是一名白发苍苍的、令人顿生敬意的绅士。<br />
+【近】 distinguished, imposing, portly, solemn, staid, stately<br />
+【反】 flighty, frivolous, giddy, goofy, silly, undignified 轻浮的，不庄重的<br />
+<br />
+【考法 2】 adj. 盛大的： large and impressive in size, grandeur, extent, or conception<br />
+【例】 an august golden anniversary celebration for the company 盛大的周年庆祝会<br />
+【近】 baronial, epic, grandiose, imperial, magnificent, majestic, massive, monumental, noble, regal, splendid<br />
+【反】 common, humble, mediocre, ordinary, unimposing, unimpressive 普通的，一般的<br />
+<br />
+【记】 august 八月份是占卜季节，仪式非常威严高贵<br />
+</answer>
+  <modified>2015-10-06</modified>
+  <template-id>10029</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10029</template-id>
 </item>

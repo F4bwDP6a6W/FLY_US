@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>rampant</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5rAmpEnt&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. （植物）生长茂盛的：  growing thickly and vigorously&lt;br&gt;【例】  a rampant growth of weeds in the neglected yard  被遗忘的院子里杂草疯长&lt;br&gt;【近】  lush, luxuriant, prosperous, weedy&lt;br&gt;【反】  sparse  稀疏的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 猖獗的，不受限制的：  occurring without restraint and frequently, widely, or menacingly&lt;br&gt;【例】  Mayor promised to put a stop to the rampant crime that plagued the city.  市长承诺要采取措施，消灭那些 扰乱城市治安的猖獗的犯罪活动。‖rampant corruption in city government  市政府中猖獗的腐败&lt;br&gt;【近】  abandoned, intemperate, runaway,  unbounded,  unbridled, unchecked, uncontrolled, unhampered, unhindered, unrestrained&lt;br&gt;【反】  bridled, checked, constrained, controlled, curbed, governed, hampered, hindered, restrained, temperate受制约的&lt;br&gt;&lt;br&gt;【记】  ram 公羊 + 音：攀，公羊攀登，用后腿站立猖獗的跳上去；来自ramp + 音：攀，狂乱地向斜坡上攀→蔓生；ramp + ant 斜坡上的一大片蚂蚁正向上爬的很猖獗<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">rampant</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5rAmpEnt&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 茂盛的： growing thickly and vigorously<br />
+【例】 a rampant growth of weeds in the neglected yard 被遗忘的院子里杂草疯长<br />
+【近】 lush, luxuriant, prosperous, weedy<br />
+【反】 sparse 稀疏的<br />
+<br />
+【考法 2】 adj. 猖獗的： occurring without restraint and frequently, widely, or menacingly<br />
+【例】 Mayor promised to put a stop to the rampant crime that plagued the city. 市长承诺要采取措施，消灭那些 扰乱城市治安的猖獗的犯罪活动。‖rampant corruption in city government 市政府中猖獗的腐败<br />
+【近】 abandoned, intemperate, runaway, unbounded, unbridled, unchecked, uncontrolled, unhampered, unhindered, unrestrained<br />
+【反】 bridled, checked, constrained, controlled, curbed, governed, hampered, hindered, restrained, temperate受制约的<br />
+<br />
+【记】 ram 公羊 + 音：攀，公羊攀登，用后腿站立猖獗的跳上去；来自ramp + 音：攀，狂乱地向斜坡上攀→蔓生；ramp + ant 斜坡上的一大片蚂蚁正向上爬的很猖獗<br />
+</answer>
+  <modified>2015-10-05</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

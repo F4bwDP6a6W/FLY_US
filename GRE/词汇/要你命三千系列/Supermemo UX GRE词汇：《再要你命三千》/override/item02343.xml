@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 24</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>squelch</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;skweltF&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt. 压制，镇压（运动）：  to put a stop to (something) by the use of force&lt;br&gt;【例】  The authority tried to squelch the workers’ protest. 政府试图镇压工人的游行。&lt;br&gt;【近】  crush, muffle, quell, repress, squash, subdue, suppress, crack down&lt;br&gt;【反】  abet, aid, assist, back, help, support, prop up  支持，帮助&lt;br&gt;&lt;br&gt;【考法 2】  vt. 击溃，使无言以对：  to put down or silence, as with a crushing retort&lt;br&gt;【例】  His irritated glare squelched any other potential objectors.  他怒目而视，使得其他的反对者都不敢说话。&lt;br&gt;【近】  dumb, extinguish, mute, quiet, settle, still, shut up&lt;br&gt;【反】  foment, incite, instigate, provoke, stir 激发，激起&lt;br&gt;【派】  squelcher  n. 镇压者&lt;br&gt;&lt;br&gt;【记】  近于squash(a=el, sh=ch) 或crush；中间是quel，quell 镇压；quench 结束, 熄灭，平息<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">squelch</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;skweltF&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 镇压： to put a stop to (something) by the use of force<br />
+【例】 The authority tried to squelch the workers’ protest. 政府试图镇压工人的游行。<br />
+【近】 crush, muffle, quell, repress, squash, subdue, suppress, crack down<br />
+【反】 abet, aid, assist, back, help, support, prop up 支持，帮助<br />
+<br />
+【考法 2】 vt. 击溃： to put down or silence, as with a crushing retort<br />
+【例】 His irritated glare squelched any other potential objectors. 他怒目而视，使得其他的反对者都不敢说话。<br />
+【近】 dumb, extinguish, mute, quiet, settle, still, shut up<br />
+【反】 foment, incite, instigate, provoke, stir 激发，激起<br />
+【派】 squelcher n. 镇压者<br />
+<br />
+【记】 近于squash(a=el, sh=ch) 或crush；中间是quel，quell 镇压；quench 结束, 熄灭，平息<br />
+</answer>
+  <modified>2015-10-06</modified>
+  <template-id>10024</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10024</template-id>
 </item>

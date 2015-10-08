@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>nourish</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5nQriF&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt. 养育，抚养：  to provide with food or other substances necessary for life and growth&lt;br&gt;【例】  He willingly nourished a child that was not his own. 他主动地抚养了一名不是他亲生的孩子。&lt;br&gt;【近】  breed, foster, nurse, nurture, raise, rear&lt;br&gt;&lt;br&gt;【考法 2】  vt. 培养，促进：  to help the growth or development of&lt;br&gt;【例】  a friendship nourished by trust  在信任的基础之上开出的友谊之花&lt;br&gt;【近】  advance, cultivate, encourage, forward, further, incubate, promote&lt;br&gt;【反】  discourage, frustrate, hinder, inhibit  阻碍，妨碍&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">nourish</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5nQriF&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 养育，抚养： to provide with food or other substances necessary for life and growth<br />
+【例】 He willingly nourished a child that was not his own. 他主动地抚养了一名不是他亲生的孩子。<br />
+【近】 breed, foster, nurse, nurture, raise, rear<br />
+【近】 advance, cultivate, encourage, forward, further, incubate, promote<br />
+【反】 discourage, frustrate, hinder, inhibit 阻碍，妨碍<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-05</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>shift</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;Fift&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt. 改变…的位置：  to change the place or position of&lt;br&gt;【例】  She shifted the vase closer to the wall so that it wouldn't get knocked over.  她把花瓶靠墙挪动了一点，从而防止它被碰倒。&lt;br&gt;【近】  budge, dislocate, displace, disturb, relocate, remove, reposition, transfer, transpose&lt;br&gt;【反】  anchor, fix, freeze, secure, set  使固定&lt;br&gt;&lt;br&gt;【考法 2】  vi. 改变，变化：  to pass from one form, state, or level to another&lt;br&gt;【例】  She watched the aurora in fascination as its colors shifted from green to blue. 她着迷地看着极光的色彩从绿变成蓝。&lt;br&gt;【近】  fluctuate, mutate, snap, vary&lt;br&gt;【反】  plateau, stabilize  达到稳定点，不变&lt;br&gt;&lt;br&gt;【考法 3】  vt. 交换：  to give up (something) and take something else in return&lt;br&gt;【例】  My father and I shifted seats just before takeoff so that I could sit by the window.  起飞前我和我父亲交 换了座位，这样我就可以靠窗坐了。&lt;br&gt;【近】  commute, exchange, shift, substitute, swap, switch, trade&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">shift</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;Fift&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vi. 改变，变化： to pass from one form, state, or level to another<br />
+【例】 She watched the aurora in fascination as its colors shifted from green to blue. 她着迷地看着极光的色彩从绿变成蓝。<br />
+【近】 fluctuate, mutate, snap, vary<br />
+【反】 plateau, stabilize 达到稳定点，不变<br />
+<br />
+【考法 2】 vt. 交换： to give up (something) and take something else in return<br />
+【例】 My father and I shifted seats just before takeoff so that I could sit by the window. 起飞前我和我父亲交 换了座位，这样我就可以靠窗坐了。<br />
+【近】 commute, exchange, shift, substitute, swap, switch, trade<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-05</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

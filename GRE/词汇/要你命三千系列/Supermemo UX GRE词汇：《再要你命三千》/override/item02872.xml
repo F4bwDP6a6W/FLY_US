@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 29</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>frosty</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5frC:sti:&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 寒冷的：  having a low or subnormal temperature&lt;br&gt;【例】  a frosty autumn that was a sign of the brutal winter that followed 一个极为寒冷的秋天，它象征着随之而来的、可能更加残暴的冬季&lt;br&gt;【近】  algid, arctic, bitter, chilling, coldish, cool, freezing, frigid, gelid, glacial, icy, nippy, numbing, polar, snappy&lt;br&gt;【反】  ardent, blazing, burning, fervent, fervid, molten, roasting, scalding, scorching, searing, sultry, sweltering, torrid  炎热的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 无强烈感情的，冷淡的：  lacking in friendliness or warmth of feeling&lt;br&gt;【例】  She gave the telemarketer on the phone a frosty “No, thank you” and hung up.  她向电话那头的推销员冷冷地说了一句“不，谢谢”之后就挂掉了电话。&lt;br&gt;【近】  antiseptic, apathetic, brittle, chilly, cold-blooded, frozen, indifferent, unfriendly, unsympathetic, wintry&lt;br&gt;【反】  cordial, friendly, genial, hearty, sympathetic, warm, warm-blooded, warmhearted  友善的，热心的&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">frosty</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5frC:sti:&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 寒冷的： having a low or subnormal temperature<br />
+【例】 a frosty autumn that was a sign of the brutal winter that followed 一个极为寒冷的秋天，它象征着随之而来的、可能更加残暴的冬季<br />
+【近】 algid, arctic, bitter, chilling, coldish, cool, freezing, frigid, gelid, glacial, icy, nippy, numbing, polar, snappy<br />
+【反】 ardent, blazing, burning, fervent, fervid, molten, roasting, scalding, scorching, searing, sultry, sweltering, torrid 炎热的<br />
+<br />
+【考法 2】 adj. 冷淡的： lacking in friendliness or warmth of feeling<br />
+【例】 She gave the telemarketer on the phone a frosty “No, thank you” and hung up. 她向电话那头的推销员冷冷地说了一句“不，谢谢”之后就挂掉了电话。<br />
+【近】 antiseptic, apathetic, brittle, chilly, cold-blooded, frozen, indifferent, unfriendly, unsympathetic, wintry<br />
+【反】 cordial, friendly, genial, hearty, sympathetic, warm, warm-blooded, warmhearted 友善的，热心的<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-06</modified>
+  <template-id>10029</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10029</template-id>
 </item>
