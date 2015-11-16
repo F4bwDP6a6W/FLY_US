@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 24</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>spoof</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;spu:f&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 轻松幽默的模仿，小恶搞：  a work that imitates and exaggerates another work for comic effect&lt;br&gt;【例】  Many viewers thought that the spoof of a television newscast was the real thing.  许多观众认为这则新闻报道被恶搞之后的作品才是真实的东西。&lt;br&gt;【近】  burlesque, caricature, mimicking, parody, travesty&lt;br&gt;&lt;br&gt;【考法 2】  v. 诱骗，诱使相信：  to cause to believe what is untrue&lt;br&gt;【例】  The public was spoofed by a supposedly plausible report of a UFO encounter.一个听起来真实的 UFO 遭遇报告欺骗了大众。&lt;br&gt;【近】  beguile, cozen, delude, dupe, fool, hoax, misguide, misinform, mislead, trick&lt;br&gt;【反】  disabuse, disenchant, disillusion, undeceive  使醒悟&lt;br&gt;&lt;br&gt;【记】  fool 愚弄，欺骗；象woof吃羊一样哄骗；音：不服？上台比划比划，他滑稽兼开玩笑地在剧台上嘲讽道；&lt;br&gt;【另】  goof 傻瓜<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">spoof</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;spu:f&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 恶搞： a work that imitates and exaggerates another work for comic effect<br />
+【例】 Many viewers thought that the spoof of a television newscast was the real thing. 许多观众认为这则新闻报道被恶搞之后的作品才是真实的东西。<br />
+【近】 burlesque, caricature, mimicking, parody, travesty<br />
+<br />
+【考法 2】 v. 诱骗，诱使相信： to cause to believe what is untrue<br />
+【例】 The public was spoofed by a supposedly plausible report of a UFO encounter.一个听起来真实的 UFO 遭遇报告欺骗了大众。<br />
+【近】 beguile, cozen, delude, dupe, fool, hoax, misguide, misinform, mislead, trick<br />
+【反】 disabuse, disenchant, disillusion, undeceive 使醒悟<br />
+<br />
+【记】 fool 愚弄，欺骗；象woof吃羊一样哄骗；音：不服？上台比划比划，他滑稽兼开玩笑地在剧台上嘲讽道；<br />
+【另】 goof 傻瓜<br />
+</answer>
+  <modified>2015-09-20</modified>
+  <template-id>10024</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10024</template-id>
 </item>

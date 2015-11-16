@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 25</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>syllogism</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5sIlEdVizEm&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 由一般到个别的推理；演绎：  reasoning from the general to the specific; deduction&lt;br&gt;【例】  The syllogism was at the core of traditional deductive reasoning, where facts are determined by combining existing statements, in contrast to inductive reasoning where facts are determined by repeated observations.   从一般到个别的推理是传统演绎推理的核心由结合现存状态所确定，而归纳推理则由重复观测来确认。&lt;br&gt;【派】syllogize v. 用三段论论证&lt;br&gt;&lt;br&gt;【记】  源自syl 同 + logism 逻辑，使用相同逻辑推出结论；三段论 e.g.: 学生都学英语，我是学生→我学英语&lt;br&gt;【另】  premise 前提<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">syllogism</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5sIlEdVizEm&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 推理；演绎： reasoning from the general to the specific; deduction<br />
+【例】 The syllogism was at the core of traditional deductive reasoning, where facts are determined by combining existing statements, in contrast to inductive reasoning where facts are determined by repeated observations. 从一般到个别的推理是传统演绎推理的核心由结合现存状态所确定，而归纳推理则由重复观测来确认。<br />
+【派】syllogize v. 用三段论论证<br />
+<br />
+【记】 源自syl 同 + logism 逻辑，使用相同逻辑推出结论；三段论 e.g.: 学生都学英语，我是学生→我学英语<br />
+【另】 premise 前提<br />
+</answer>
+  <modified>2015-09-28</modified>
+  <template-id>10025</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10025</template-id>
 </item>

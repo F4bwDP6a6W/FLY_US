@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 29</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>lax</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;lAks&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 松弛的，不紧的，不严格的：  not tense, firm, or rigid&lt;br&gt;【例】  exercises to improve lax muscles  锻炼松弛的肌肉‖The guidelines for the essay contest were fairly lax, permitting a wide variety of topics.  本次作文大赛的要求相对比较宽松，允许写多种类型的主题。&lt;br&gt;【近】  flabby, flaccid, insecure, loose, loosened, relaxed, slackened, unsecured&lt;br&gt;【反】  taut, tense, tight  紧固的，牢固的；hard, harsh, rigid, rigorous, severe, stern, strict  严格的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 懈怠的，漫不经心的：  failing to give proper care and attention&lt;br&gt;【例】  The university has been lax about enforcing these rules.  学校对于这些规定的施行显得漫不经心。&lt;br&gt;【近】  careless, derelict, disregardful, heedless, lazy, neglectful, neglecting, negligent, remiss, slack&lt;br&gt;【反】  attentive, careful, cautious, conscientious, heedful, mindful, vigilant, wary 注意的，留心的&lt;br&gt;&lt;br&gt;【记】  relax 放松，松驰&lt;br&gt;One false move may lose the game.　　一着不慎，满盘皆输。<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">lax</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;lAks&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 松弛的： not tense, firm, or rigid<br />
+【例】 exercises to improve lax muscles 锻炼松弛的肌肉‖The guidelines for the essay contest were fairly lax, permitting a wide variety of topics. 本次作文大赛的要求相对比较宽松，允许写多种类型的主题。<br />
+【近】 flabby, flaccid, insecure, loose, loosened, relaxed, slackened, unsecured<br />
+【反】 taut, tense, tight 紧固的，牢固的；hard, harsh, rigid, rigorous, severe, stern, strict 严格的<br />
+<br />
+【考法 2】 adj. 松懈的： failing to give proper care and attention<br />
+【例】 The university has been lax about enforcing these rules. 学校对于这些规定的施行显得漫不经心。<br />
+【近】 careless, derelict, disregardful, heedless, lazy, neglectful, neglecting, negligent, remiss, slack<br />
+【反】 attentive, careful, cautious, conscientious, heedful, mindful, vigilant, wary 注意的，留心的<br />
+<br />
+【记】 relax 放松，松驰<br />
+One false move may lose the game.　　一着不慎，满盘皆输。<br />
+</answer>
+  <modified>2015-10-06</modified>
+  <template-id>10029</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10029</template-id>
 </item>

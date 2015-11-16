@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 29</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>groggy</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5skwi:mIF&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 虚弱的，（走路）不稳的：  weak and unsteady on the feet or in action&lt;br&gt;【例】  She was feeling a bit groggy when I saw her.  当我看到她的时候她显得有些走路不稳。&lt;br&gt;【近】  rickety, rocky,shaky, unbalanced, unsound, unstable, unsteady, wobbly&lt;br&gt;【反】  balanced, stable, steady, sound 平衡的，稳定的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 无法思考的，头脑不清的：  not able to think or move normally because of being tired, sick, etc.&lt;br&gt;【例】  I'm still a little groggy from my nap.  我还没完全从睡梦中清醒过来。‖The medicine sometimes makes patients groggy.  这种药偶尔会让病人产生醉酒一样的麻醉感。&lt;br&gt;【近】  dazed, dopey, muddleheaded, muzzy, punch-drunk, punchy, stupefied, zonked, zonked-out&lt;br&gt;【反】  clearheaded, unconfused  头脑清楚的&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">groggy</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5skwi:mIF&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 虚弱的： weak and unsteady on the feet or in action<br />
+【例】 She was feeling a bit groggy when I saw her. 当我看到她的时候她显得有些走路不稳。<br />
+【近】 rickety, rocky,shaky, unbalanced, unsound, unstable, unsteady, wobbly<br />
+【反】 balanced, stable, steady, sound 平衡的，稳定的<br />
+<br />
+【考法 2】 adj. 头脑不清的： not able to think or move normally because of being tired, sick, etc.<br />
+【例】 I'm still a little groggy from my nap. 我还没完全从睡梦中清醒过来。‖The medicine sometimes makes patients groggy. 这种药偶尔会让病人产生醉酒一样的麻醉感。<br />
+【近】 dazed, dopey, muddleheaded, muzzy, punch-drunk, punchy, stupefied, zonked, zonked-out<br />
+【反】 clearheaded, unconfused 头脑清楚的<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-06</modified>
+  <template-id>10029</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10029</template-id>
 </item>

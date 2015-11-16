@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 26</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>unwitting</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;Qn5wItIN&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 不知道的，未觉察的：  not knowing, unaware&lt;br&gt;【例】  Please forgive my unwitting interruption of your conversation.  请原谅我无意间打断了你们的谈话。&lt;br&gt;【近】  unaware, ignorant&lt;br&gt;【反】 acquainted, aware, cognizant, conscious, conversant, grounded, informed, knowing, mindful  有意识的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 偶然的，并非有意的：  happening by chance; not intended&lt;br&gt;【例】  an unwitting mistake made in copying the material 在打印过程中一个无心的过失&lt;br&gt;【近】  casual, chance, fluky, fortuitous, inadvertent, incidental, unintentional&lt;br&gt;【反】  calculated, deliberate, intended, intentional, planned, premeditated, prepense  故意的，蓄意的&lt;br&gt;&lt;br&gt;【记】  un 不，witting（adj.有意的）：不是有意的<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">unwitting</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;Qn5wItIN&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 不知道的： not knowing, unaware<br />
+【例】 Please forgive my unwitting interruption of your conversation. 请原谅我无意间打断了你们的谈话。<br />
+【近】 unaware, ignorant<br />
+【反】 acquainted, aware, cognizant, conscious, conversant, grounded, informed, knowing, mindful 有意识的<br />
+<br />
+【考法 2】 adj. 并非有意的： happening by chance; not intended<br />
+【例】 an unwitting mistake made in copying the material 在打印过程中一个无心的过失<br />
+【近】 casual, chance, fluky, fortuitous, inadvertent, incidental, unintentional<br />
+【反】 calculated, deliberate, intended, intentional, planned, premeditated, prepense 故意的，蓄意的<br />
+<br />
+【记】 un 不，witting（adj.有意的）：不是有意的<br />
+</answer>
+  <modified>2015-10-07</modified>
+  <template-id>10026</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10026</template-id>
 </item>

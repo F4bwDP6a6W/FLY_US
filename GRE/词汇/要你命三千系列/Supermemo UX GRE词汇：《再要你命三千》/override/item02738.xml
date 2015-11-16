@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>bumble</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5bQmbEl&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vi. 含糊不清地说，杂乱无章地说：  to speak rapidly, inarticulately, and usually unintelligibly&lt;br&gt;【例】  Overcome with stage fright, I could only bumble through the speech. 由于怯场，我结结巴巴地说完了演讲稿。&lt;br&gt;【近】  babble, drivel, drool, gabble, gibber, jabber, prattle, sputter&lt;br&gt;【反】  articulate, enunciate, pronounce 清楚地说&lt;br&gt;&lt;br&gt;【考法 2】  vi. 笨拙地行动：  to move, act, or proceed clumsily&lt;br&gt;【例】  I sort of bumbled through the dance number, hoping that it would soon end.  我笨拙地跟着曲子舞蹈，心里指望着它快点结束。&lt;br&gt;【近】  blunder, flounder, limp, lumber, plod, struggle, stumble, trudge&lt;br&gt;【反】  coast, drift, glide, sail, slide  （轻松地）行动，滑动&lt;br&gt;&lt;br&gt;【记】  音:蹦步,蹦着走步,表示笨拙，说话也象蹦着步伐般结巴；在bomb轰炸中踉跄地走，跌倒并且结巴说话救命；&lt;br&gt;【另】  stumble 结巴说话，绊走, mumble 咕哝,rumble 隆隆声，bungle 办糟<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">bumble</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5bQmbEl&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vi. 含糊不清地说： to speak rapidly, inarticulately, and usually unintelligibly<br />
+【例】 Overcome with stage fright, I could only bumble through the speech. 由于怯场，我结结巴巴地说完了演讲稿。<br />
+【近】 babble, drivel, drool, gabble, gibber, jabber, prattle, sputter<br />
+【反】 articulate, enunciate, pronounce 清楚地说<br />
+<br />
+【考法 2】 vi. 笨拙地行动： to move, act, or proceed clumsily<br />
+【例】 I sort of bumbled through the dance number, hoping that it would soon end. 我笨拙地跟着曲子舞蹈，心里指望着它快点结束。<br />
+【近】 blunder, flounder, limp, lumber, plod, struggle, stumble, trudge<br />
+【反】 coast, drift, glide, sail, slide （轻松地）行动，滑动<br />
+<br />
+【记】 音:蹦步,蹦着走步,表示笨拙，说话也象蹦着步伐般结巴；在bomb轰炸中踉跄地走，跌倒并且结巴说话救命；<br />
+【另】 stumble 结巴说话，绊走, mumble 咕哝,rumble 隆隆声，bungle 办糟<br />
+</answer>
+  <modified>2015-10-04</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>slack</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;slAk&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 松弛的：  not tightly fastened, tied, or stretched&lt;br&gt;【例】  The rope is too slack.  绳子太松了。&lt;br&gt;【近】 insecure, lax, loosened, relaxed, slackened, unsecured&lt;br&gt;【反】  taut, tense, tight  拉紧的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 疏忽的，大意的：  failing to give proper care and attention&lt;br&gt;【例】  This building contractor is known mainly for his firm's slack workmanship and slipshod construction.  这个建筑承包商因其手下公司不负责任的粗糙做工和马虎建造的建筑物而闻名。&lt;br&gt;【近】 careless, derelict, disregardful, lax, lazy, neglectful, neglecting, negligent, remiss&lt;br&gt;【反】  attentive, careful, conscientious  专心的；alert, heedful, mindful,  observant, regardful, vigilant, wary, watchful 警惕的&lt;br&gt;&lt;br&gt;【记】  音：丝 + lack 缺乏→一根丝缺乏(力量)→松驰&lt;br&gt;Tomorrow comes never. 切莫依赖明天。<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">slack</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;slAk&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 松弛的： not tightly fastened, tied, or stretched<br />
+【例】 The rope is too slack. 绳子太松了。<br />
+【近】 insecure, lax, loosened, relaxed, slackened, unsecured<br />
+【反】 taut, tense, tight 拉紧的<br />
+<br />
+【考法 2】 adj. 疏忽大意的： failing to give proper care and attention<br />
+【例】 This building contractor is known mainly for his firm's slack workmanship and slipshod construction. 这个建筑承包商因其手下公司不负责任的粗糙做工和马虎建造的建筑物而闻名。<br />
+【近】 careless, derelict, disregardful, lax, lazy, neglectful, neglecting, negligent, remiss<br />
+【反】 attentive, careful, conscientious 专心的；alert, heedful, mindful, observant, regardful, vigilant, wary, watchful 警惕的<br />
+<br />
+【记】 音：丝 + lack 缺乏→一根丝缺乏(力量)→松驰<br />
+Tomorrow comes never. 切莫依赖明天。<br />
+</answer>
+  <modified>2015-09-29</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>

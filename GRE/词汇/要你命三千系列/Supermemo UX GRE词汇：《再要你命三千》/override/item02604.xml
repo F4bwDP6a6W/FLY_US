@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 26</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>vacillate</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5vAsIleIt&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vi. 犹豫不决：  to waver in mind, will, or feeling: hesitate in choice of opinions or courses&lt;br&gt;【例】  Parents vacillate between saying no and yes, but actually neither response seems satisfactory to  their children.  父母总是犹豫不定，不知道是该同意还是该反对，但是事实上哪种答案对他们的孩子都不理想。&lt;br&gt;【近】  hesitate, dither, waver, teeter, falter&lt;br&gt;【反】  resolute, decide, dive in, plunge in 决定&lt;br&gt;&lt;br&gt;【考法 2】  vi. 摇动，摇摆：  to sway from one side to the other; oscillate&lt;br&gt;【近】  oscillate, fluctuate&lt;br&gt;【反】  equipoise   平衡；静止&lt;br&gt;&lt;br&gt;【记】  同oscillate 振荡，这两个单词后半部分相同；vaccinate 疫苗 + ill，想种疫苗，又怕得病→踌躇<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">vacillate</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5vAsIleIt&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vi. 犹豫： to waver in mind, will, or feeling: hesitate in choice of opinions or courses<br />
+【例】 Parents vacillate between saying no and yes, but actually neither response seems satisfactory to their children. 父母总是犹豫不定，不知道是该同意还是该反对，但是事实上哪种答案对他们的孩子都不理想。<br />
+【近】 hesitate, dither, waver, teeter, falter<br />
+【反】 resolute, decide, dive in, plunge in 决定<br />
+<br />
+【考法 2】 vi. 摇摆： to sway from one side to the other; oscillate<br />
+【近】 oscillate, fluctuate<br />
+【反】 equipoise 平衡；静止<br />
+<br />
+【记】 同oscillate 振荡，这两个单词后半部分相同；vaccinate 疫苗 + ill，想种疫苗，又怕得病→踌躇<br />
+</answer>
+  <modified>2015-10-07</modified>
+  <template-id>10026</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10026</template-id>
 </item>

@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>observant</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;Eb5z\:vEnt&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 警惕的，警觉的：  paying close attention usually for the purpose of anticipating approaching danger or opportunity&lt;br&gt;【例】  Good reporters are keenly observant of everything around them. 优秀的记者应该对身边所有的事情都保持高度的警惕。‖If you were more observant, you would perceive that something is troubling her deeply.  如果你能再警觉一些的话，你就会发现她正被某些东西困扰。&lt;br&gt;【近】  alert, attentive, awake, cautious, sharp, vigilant, watchful&lt;br&gt;【反】  careless, heedless, inattentive, unmindful, unthinking, unwary  不谨慎的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 严格遵守（规章、制度或原则）的：  diligent in observing a law, custom, duty, or principle&lt;br&gt;【例】  observant of the speed limit 严格遵守速度限制‖pious and religiously observant families  虔诚而严守教规的家庭&lt;br&gt;【近】  law-abiding&lt;br&gt;【派】  observance  n. 遵守（规定）&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">observant</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;Eb5z\:vEnt&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 警惕的： paying close attention usually for the purpose of anticipating approaching danger or opportunity<br />
+【例】 Good reporters are keenly observant of everything around them. 优秀的记者应该对身边所有的事情都保持高度的警惕。‖If you were more observant, you would perceive that something is troubling her deeply. 如果你能再警觉一些的话，你就会发现她正被某些东西困扰。<br />
+【近】 alert, attentive, awake, cautious, sharp, vigilant, watchful<br />
+【反】 careless, heedless, inattentive, unmindful, unthinking, unwary<br />
+<br />
+【考法 2】 adj. 严格遵守（规章、制度或原则）的： diligent in observing a law, custom, duty, or principle<br />
+【例】 observant of the speed limit 严格遵守速度限制‖pious and religiously observant families 虔诚而严守教规的家庭<br />
+【近】 law-abiding<br />
+【派】 observance n. 遵守（规定）<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-05</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

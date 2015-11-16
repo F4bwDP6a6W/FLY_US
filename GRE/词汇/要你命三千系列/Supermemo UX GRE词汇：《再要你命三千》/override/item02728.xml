@@ -1,11 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>annex</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;E5neks&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 裙楼，副楼：  a building added on to a larger one or an auxiliary building situated near a main one&lt;br&gt;【例】  The new annex that will serve as the permanent home for the school library.  新的裙楼将成为学校图书馆的永久住所。&lt;br&gt;【近】  addition, extension, penthouse&lt;br&gt;&lt;br&gt;【考法 2】  vt. 添加，合并：  to join (something) to a mass, quantity, or number so as to bring about an overall increase&lt;br&gt;【例】  plans to annex the supply room so as to make the classroom bigger  计划将工具房并入教室，从而扩充其容量&lt;br&gt;【近】  adjoin, affix, append, attach, subjoin, tack&lt;br&gt;【反】  abate, deduct, remove, subtract 削减&lt;br&gt;&lt;br&gt;【考法 3】  vt. 吞并，夺取（土地等）：  to incorporate (a country or other territory) within the domain of a state&lt;br&gt;【例】  Rome annexed the Nabatean kingdom in 106 AD. 公元前 106年罗马帝国吞并了古城那巴顿。&lt;br&gt;【近】  acquire, appropriate, arrogate, expropriate, seize, take over&lt;br&gt;【反】  lose  失去&lt;br&gt;&lt;br&gt;<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">annex</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;E5neks&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n.副楼： a building added on to a larger one or an auxiliary building situated near a main one<br />
+【例】 The new annex that will serve as the permanent home for the school library. 新的裙楼将成为学校图书馆的永久住所。<br />
+【近】 addition, extension, penthouse<br />
+<br />
+【考法 2】 vt. 添加，合并： to join (something) to a mass, quantity, or number so as to bring about an overall increase<br />
+【例】 plans to annex the supply room so as to make the classroom bigger 计划将工具房并入教室，从而扩充其容量<br />
+【近】 adjoin, affix, append, attach, subjoin, tack<br />
+【反】 abate, deduct, remove, subtract 削减<br />
+<br />
+【考法 3】 vt. 吞并，夺取（土地等）： to incorporate (a country or other territory) within the domain of a state<br />
+【例】 Rome annexed the Nabatean kingdom in 106 AD. 公元前 106年罗马帝国吞并了古城那巴顿。<br />
+【近】 acquire, appropriate, arrogate, expropriate, seize, take over<br />
+【反】 lose 失去<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-03</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

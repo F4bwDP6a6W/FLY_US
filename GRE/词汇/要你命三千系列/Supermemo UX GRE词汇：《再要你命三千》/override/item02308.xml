@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>sophism</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5sRfIzm&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 假推理，诡辩：  deceptive or fallacious argumentation&lt;br&gt;【例】  Political selection is more dependent on sophism and less on economic literacy.  政治选举更多的是依靠诡辩，而非简练的文笔。&lt;br&gt;【近】  sophistry&lt;br&gt;&lt;br&gt;【记】  sophisticated 诡辩的, 久经世故的；sophomore 大二学生(sopho聪明，世故了 + more 更多)&lt;br&gt;【另】  philosophy (philo 热爱 + sopho 聪明，智慧，诡辩)哲学<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">sophism</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5sRfIzm&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 欺诈的论证： deceptive or fallacious argumentation<br />
+【例】 Political selection is more dependent on sophism and less on economic literacy. 政治选举更多的是依靠诡辩，而非简练的文笔。<br />
+【近】 sophistry<br />
+<br />
+【记】 sophisticated 诡辩的, 久经世故的；sophomore 大二学生(sopho聪明，世故了 + more 更多)<br />
+【另】 philosophy (philo 热爱 + sopho 聪明，智慧，诡辩)哲学<br />
+</answer>
+  <modified>2015-09-19</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>

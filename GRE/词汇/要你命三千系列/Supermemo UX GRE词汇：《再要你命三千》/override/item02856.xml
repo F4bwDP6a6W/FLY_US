@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 29</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>coy</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;kCI&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 故作羞涩的：  affectedly and usually flirtatiously shy or modest&lt;br&gt;【例】  Not wanting him to know that she was interested in him, she acted very coy at the dance.  她在舞会上故意装得很娇羞的样子，不想让他知道她喜欢他。&lt;br&gt;【近】  coquettish, demure, kittenish&lt;br&gt;&lt;br&gt;【考法 2】  adj. 不愿与人交往的，内向的：  tending to avoid people and social situations&lt;br&gt;【例】  She was modest without being coy.  她很低调，但又不至于内向。&lt;br&gt;【近】  backward, bashful, diffident, introverted, modest, recessive, retiring, sheepish, shy, withdrawn&lt;br&gt;【反】  extroverted, immodest, outgoing 外向的&lt;br&gt;&lt;br&gt;【记】  看到boy 就cow，害羞，boy的相反→女孩子性格<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">coy</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;kCI&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 羞涩的： affectedly and usually flirtatiously shy or modest<br />
+【例】 Not wanting him to know that she was interested in him, she acted very coy at the dance. 她在舞会上故意装得很娇羞的样子，不想让他知道她喜欢他。<br />
+【近】 coquettish, demure, kittenish<br />
+<br />
+【考法 2】 adj. 内向的： tending to avoid people and social situations<br />
+【例】 She was modest without being coy. 她很低调，但又不至于内向。<br />
+【近】 backward, bashful, diffident, introverted, modest, recessive, retiring, sheepish, shy, withdrawn<br />
+【反】 extroverted, immodest, outgoing 外向的<br />
+<br />
+【记】 看到boy 就cow，害羞，boy的相反→女孩子性格<br />
+</answer>
+  <modified>2015-10-06</modified>
+  <template-id>10029</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10029</template-id>
 </item>

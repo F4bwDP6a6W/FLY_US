@@ -1,11 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>delegate</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5deligit&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 代理人，代表：  a person authorized to act as representative for another&lt;br&gt;【例】  The real estate developer sent a delegate to the town meeting to represent his interests.  房地产开发商派了一名能代表自己利益的代理前往镇上开会。‖the U.N. delegates from African countries  非洲国家的驻联合国代表&lt;br&gt;【近】  agent, assignee, commissary, deputy, emissary, envoy, legate, minister, proxy, representative&lt;br&gt;&lt;br&gt;【考法 2】  vt. 移交（权力，任务等）：  to put (something) into the possession or safekeeping of another&lt;br&gt;【例】  The manager is reluctant to delegate authority to subordinates while abroad.  经理不愿意在国外期间将自己的权力转交给下级。&lt;br&gt;【近】  commit, confide, consign, deliver, entrust, repose, transfer, transmit, vest, give over, hand over, turn over&lt;br&gt;【反】  hold, keep, retain  保持，持有&lt;br&gt;【派】  delegation  n. 代表团&lt;br&gt;&lt;br&gt;【记】  de离去 + legate 使节；下面 + leg 跑腿的,使节其实是为头儿跑腿的<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">delegate</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5deligit&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 移交（权力，任务等）： to put (something) into the possession or safekeeping of another<br />
+【例】 The manager is reluctant to delegate authority to subordinates while abroad. 经理不愿意在国外期间将自己的权力转交给下级。<br />
+【近】 commit, confide, consign, deliver, entrust, repose, transfer, transmit, vest, give over, hand over, turn over<br />
+【反】 hold, keep, retain 保持，持有<br />
+【派】 delegation n. 代表团<br />
+<br />
+【考法 2】 n. 代理人，代表： a person authorized to act as representative for another<br />
+【例】 The real estate developer sent a delegate to the town meeting to represent his interests. 房地产开发商派了一名能代表自己利益的代理前往镇上开会。‖the U.N. delegates from African countries 非洲国家的驻联合国代表<br />
+【近】 agent, assignee, commissary, deputy, emissary, envoy, legate, minister, proxy, representative<br />
+<br />
+<br />
+<br />
+【记】 de离去 + legate 使节；下面 + leg 跑腿的,使节其实是为头儿跑腿的<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-04</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

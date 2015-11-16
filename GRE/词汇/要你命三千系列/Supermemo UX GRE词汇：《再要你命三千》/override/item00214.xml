@@ -5,7 +5,7 @@
   <question-title>根据单词，回想词义</question-title>
   <question><span style="font-family: Comic Sans MS; font-weight: normal; color: #550000; font-style: normal">bathetic</span><br />
 <span style="font-family: 微软雅黑; font-weight: normal; color: #000000; font-style: normal">[bə'θetɪk]</span></question>
-  <answer>【考法 1】 adj. 异常平庸的： characterized by exceptional commonplaceness<br />
+  <answer>【考法 1】 adj. 平庸的： characterized by exceptional commonplaceness<br />
 【例】 a bathetic funeral['fjuːnərə] scene <br />
 【近】 trite, cliché, commonplace, hackneyed['hæknɪd], stale, stereotyped<br />
 【反】 offbeat 离奇的 exceptional 不平常的，非凡的<br />
@@ -13,7 +13,7 @@
 <br />
 【记】 bathos 突降,陈腐 bath- 是深的字根,pathetic 悲惨可怜<br />
 </answer>
-  <modified>2015-08-07</modified>
+  <modified>2015-10-06</modified>
   <template-id>10003</template-id>
   <question-audio>true</question-audio>
 </item>

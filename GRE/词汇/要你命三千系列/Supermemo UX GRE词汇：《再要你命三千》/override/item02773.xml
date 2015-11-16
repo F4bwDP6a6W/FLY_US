@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>heckle</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5hekEl&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt. 起哄，使难堪：  to harass and try to disconcert with questions, challenges, or gibes&lt;br&gt;【例】  a controversial player who was constantly heckled by the fans  一个时常被粉丝起哄的有争议的歌手‖Several protesters were heckling the speaker at the rally.  不少示威者在集会上起哄让发言者难堪。&lt;br&gt;【近】  badger, bait, hassle, haze, hector, needle, ride, taunt&lt;br&gt;&lt;br&gt;【记】  源自hackle；乱砍，辩论时就是通过诘问乱砍别人；音：黑口，黑嘴，总问一些刁钻问题为难别人；音：还口，对刁钻问题还口&lt;br&gt;【另】  hackle 梳理, 乱砍<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">heckle</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5hekEl&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 使难堪： to harass and try to disconcert with questions, challenges, or gibes<br />
+【例】 a controversial player who was constantly heckled by the fans 一个时常被粉丝起哄的有争议的歌手‖Several protesters were heckling the speaker at the rally. 不少示威者在集会上起哄让发言者难堪。<br />
+【近】 badger, bait, hassle, haze, hector, needle, ride, taunt<br />
+<br />
+【记】 源自hackle；乱砍，辩论时就是通过诘问乱砍别人；音：黑口，黑嘴，总问一些刁钻问题为难别人；音：还口，对刁钻问题还口<br />
+【另】 hackle 梳理, 乱砍<br />
+</answer>
+  <modified>2015-10-04</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

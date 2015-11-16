@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>sly</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;slaI&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 狡猾的：  clever or cunning, especially in the practice of deceit.&lt;br&gt;【例】  The movie pairs a sly, dissembling ex-con with an upstanding, straight-arrow cop.  电影把一个狡猾、善于骗人的出狱犯和正直、坦率的警察搭配在了一起。&lt;br&gt;【近】  beguiling, cagey, crafty, cunning, designing, devious, foxy, guileful, scheming, shrewd, subtle, tricky, wily&lt;br&gt;【反】  artless, guileless, ingenuous, innocent, undesigning  天真纯朴的，无伪装的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 隐秘的，偷偷的：  given to acting in secret and to concealing one's intentions&lt;br&gt;【例】  took a sly look at the letter on the table  偷偷地看了一眼桌上的信&lt;br&gt;【近】  furtive, shady, shifty, slippery, sneaking, stealthy&lt;br&gt;【反】  aboveboard  光明正大的&lt;br&gt;&lt;br&gt;【记】  spy的特点 &lt;br&gt;smarmy adj.迎奉的,讨好的 &lt;br&gt;【记】  音：抹蜜，嘴巴抹蜜→奉承；seem + warm 看起来很热心，其实虚伪<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">sly</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;slaI&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 狡猾的： clever or cunning, especially in the practice of deceit.<br />
+【例】 The movie pairs a sly, dissembling ex-con with an upstanding, straight-arrow cop. 电影把一个狡猾、善于骗人的出狱犯和正直、坦率的警察搭配在了一起。<br />
+【近】 beguiling, cagey, crafty, cunning, designing, devious, foxy, guileful, scheming, shrewd, subtle, tricky, wily<br />
+【反】 artless, guileless, ingenuous, innocent, undesigning 天真纯朴的，无伪装的<br />
+<br />
+【考法 2】 adj. 偷偷的： given to acting in secret and to concealing one's intentions<br />
+【例】 took a sly look at the letter on the table 偷偷地看了一眼桌上的信<br />
+【近】 furtive, shady, shifty, slippery, sneaking, stealthy<br />
+【反】 aboveboard 光明正大的<br />
+<br />
+【记】 spy的特点 <br />
+smarmy adj.迎奉的,讨好的 <br />
+【记】 音：抹蜜，嘴巴抹蜜→奉承；seem + warm 看起来很热心，其实虚伪<br />
+</answer>
+  <modified>2015-09-19</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>

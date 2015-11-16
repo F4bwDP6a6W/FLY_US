@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 25</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>tamper</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5tAmpEr&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vi. 恶意窜改，损害：  to handle thoughtlessly, ignorantly, or mischievously&lt;br&gt;【例】  tamper with tradition  坏了规矩&lt;br&gt;【近】 diddle with, fiddle with, fool with, mess with&lt;br&gt;&lt;br&gt;【考法 2】  v. 玩弄：  to tinker with rashly or foolishly&lt;br&gt;【例】  Don't tamper with my feelings.  不要玩弄我的感情。&lt;br&gt;&lt;br&gt;【记】  源自temper 调和，锻炼；音：弹破，弹破把琴，弹破了一把吉它→损害，削弱了琴的音质；stamp 破，将邮票弄破<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">tamper</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5tAmpEr&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vi. 损害： to handle thoughtlessly, ignorantly, or mischievously<br />
+【例】 tamper with tradition 坏了规矩<br />
+【近】 diddle with, fiddle with, fool with, mess with<br />
+<br />
+【考法 2】 v. 玩弄： to tinker with rashly or foolishly<br />
+【例】 Don't tamper with my feelings. 不要玩弄我的感情。<br />
+<br />
+【记】 源自temper 调和，锻炼；音：弹破，弹破把琴，弹破了一把吉它→损害，削弱了琴的音质；stamp 破，将邮票弄破<br />
+</answer>
+  <modified>2015-10-06</modified>
+  <template-id>10025</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10025</template-id>
 </item>

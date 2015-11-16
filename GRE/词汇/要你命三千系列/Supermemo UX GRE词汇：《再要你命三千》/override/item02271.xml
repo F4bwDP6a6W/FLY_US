@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>sloth</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;slEuW&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 怠惰，懒惰：  disinclination to action or labor: indolence&lt;br&gt;【例】  Sloth is the mother of poverty.  懒惰是贫穷的原因。&lt;br&gt;【近】  idleness, indolence, inertia, languor, laziness, lethargy, shiftlessness, sluggishness, torpor&lt;br&gt;【反】  assiduity, diligence, industry 勤奋&lt;br&gt;【派】  slothful  adj. 懒惰的&lt;br&gt;&lt;br&gt;【记】  源自slow，slow + 音：事，slow地做事，做什么事情都slow<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">sloth</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;slEuW&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 n. 懒惰： disinclination to action or labor: indolence<br />
+【例】 Sloth is the mother of poverty. 懒惰是贫穷的原因。<br />
+【近】 idleness, indolence, inertia, languor, laziness, lethargy, shiftlessness, sluggishness, torpor<br />
+【反】 assiduity, diligence, industry 勤奋<br />
+【派】 slothful adj. 懒惰的<br />
+<br />
+【记】 源自slow，slow + 音：事，slow地做事，做什么事情都slow<br />
+</answer>
+  <modified>2015-09-19</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>

@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 22</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>saturate</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5sAtFEreit&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  v./adj. 使饱和，浸透：  to wet thoroughly with liquid&lt;br&gt;【例】  Saturate the sponge with water. 将海绵浸透&lt;br&gt;【近】 bathe, douse, drench, soak, souse, bedraggle&lt;br&gt;【反】  wring out&lt;br&gt;&lt;br&gt;【记】  源自sate 吃饱 饱合 + ate 吃；Saturday + ate 吃，周六吃，吃得都饱合了<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">saturate</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5sAtFEreit&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 v./adj. 浸透： to wet thoroughly with liquid<br />
+【例】 Saturate the sponge with water. 将海绵浸透<br />
+【近】 bathe, douse, drench, soak, souse, bedraggle<br />
+【反】 wring out<br />
+<br />
+【记】 源自sate 吃饱 饱合 + ate 吃；Saturday + ate 吃，周六吃，吃得都饱合了<br />
+</answer>
+  <modified>2015-09-20</modified>
+  <template-id>10022</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10022</template-id>
 </item>

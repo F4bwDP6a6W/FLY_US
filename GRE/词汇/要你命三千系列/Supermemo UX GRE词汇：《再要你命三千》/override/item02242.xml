@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 23</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>shroud</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;Fraud&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  n. 隐蔽物，可起隐藏、保护或屏护作用的某物：  something that conceals, protects, or screens:&lt;br&gt;【例】  under a shroud of fog  在迷雾的掩护下&lt;br&gt;&lt;br&gt;【考法 2】  v. 将…从视线中隔离，遮蔽：  to shut off from sight; screen&lt;br&gt;【例】  shrouded the fact that the child had been adopted 将孩子是领养的这个事实隐藏起来&lt;br&gt;【近】  belie, blanket, cloak, conceal, cover, curtain, disguise, mask, occult, screen, veil, blot out, paper over&lt;br&gt;【反】  bare, disclose, display, divulge, expose, reveal, show  展示，暴露&lt;br&gt;&lt;br&gt;【记】  音：尸绕的，尸体上缠绕的裹尸布；音: 烧的，包裹起来烧的，裹尸布<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">shroud</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;Fraud&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 v. 遮蔽： to shut off from sight; screen<br />
+【例】 shrouded the fact that the child had been adopted 将孩子是领养的这个事实隐藏起来<br />
+【近】 belie, blanket, cloak, conceal, cover, curtain, disguise, mask, occult, screen, veil, blot out, paper over<br />
+【反】 bare, disclose, display, divulge, expose, reveal, show 展示，暴露<br />
+<br />
+<br />
+【考法 2】 n. 隐蔽物： something that conceals, protects, or screens:<br />
+【例】 under a shroud of fog 在迷雾的掩护下<br />
+<br />
+【记】 音：尸绕的，尸体上缠绕的裹尸布；音: 烧的，包裹起来烧的，裹尸布<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-05</modified>
+  <template-id>10023</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10023</template-id>
 </item>

@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 14</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>lacerate</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5lAsEreit&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt. 使非常痛苦：  to cause deep emotional pain to; distress&lt;br&gt;【例】  He was born into a family already lacerated with tensions and divisions.  他出生在一个已经被冲突和分裂折磨不堪的家庭当中&lt;br&gt;【近】  afflict, distress, harrow, hurt, rend, torment, torture, wound&lt;br&gt;【反】 allay, alleviate, assuage, ease, mitigate, mollify, palliate, relieve, soothe  减轻（痛苦等）&lt;br&gt;&lt;br&gt;【记】  音：勒撕，裂撕 + ate 动词<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">lacerate</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5lAsEreit&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. 折磨： to cause deep emotional pain to; distress<br />
+【例】 He was born into a family already lacerated with tensions and divisions. 他出生在一个已经被冲突和分裂折磨不堪的家庭当中<br />
+【近】 afflict, distress, harrow, hurt, rend, torment, torture, wound<br />
+【反】 allay, alleviate, assuage, ease, mitigate, mollify, palliate, relieve, soothe 减轻（痛苦等）<br />
+<br />
+【记】 音：勒撕，裂撕 + ate 动词<br />
+</answer>
+  <modified>2015-09-26</modified>
+  <template-id>10014</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10014</template-id>
 </item>

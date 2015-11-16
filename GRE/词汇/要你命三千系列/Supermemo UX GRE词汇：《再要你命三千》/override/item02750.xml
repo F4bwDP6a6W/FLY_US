@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>dampen</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5dAmpEn&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  vt. （特指稍稍地）弄湿：  to make or become slightly or moderately wet&lt;br&gt;【例】  dampen a paper towel with water and use it to clean up the mess  把纸巾弄湿用来清扫&lt;br&gt;【近】  bedew, damp, douse , drench, impregnate, saturate, soak, souse, steep&lt;br&gt;【反】  dehydrate, desiccate, dry, parch, scorch, sear 使脱水，烤干&lt;br&gt;&lt;br&gt;【考法 2】  vt. 抑制，压抑（感情，精力等），泼冷水：  to check or diminish the feeling, activity or vigor of&lt;br&gt;【例】  Nothing could dampen their enthusiasm.  没有什么能扼杀他们的激情。‖The oppressive heat dampened our spirits.  让人难以忍受的酷暑让我们精神不振。&lt;br&gt;【近】  benumb, blunt, castrate, deaden, devitalize, enervate, geld, lobotomize, petrify&lt;br&gt;【反】  brace, energize, enliven, invigorate, quicken, stimulate, vitalize, vivify 使充满活力&lt;br&gt;&lt;br&gt;【记】  dam + 音：破，泼，大坝破了，大坝泼水会潮湿；damp + en 使→使潮湿<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">dampen</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5dAmpEn&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 vt. （特指稍稍地）弄湿： to make or become slightly or moderately wet<br />
+【例】 dampen a paper towel with water and use it to clean up the mess 把纸巾弄湿用来清扫<br />
+【近】 bedew, damp, douse , drench, impregnate, saturate, soak, souse, steep<br />
+【反】 dehydrate, desiccate, dry, parch, scorch, sear 使脱水，烤干<br />
+<br />
+【考法 2】 vt. 抑制，压抑,泼冷水： to check or diminish the feeling, activity or vigor of<br />
+【例】 Nothing could dampen their enthusiasm. 没有什么能扼杀他们的激情。‖The oppressive heat dampened our spirits. 让人难以忍受的酷暑让我们精神不振。<br />
+【近】 benumb, blunt, castrate, deaden, devitalize, enervate, geld, lobotomize, petrify<br />
+【反】 brace, energize, enliven, invigorate, quicken, stimulate, vitalize, vivify 使充满活力<br />
+<br />
+【记】 dam + 音：破，泼，大坝破了，大坝泼水会潮湿；damp + en 使→使潮湿<br />
+</answer>
+  <modified>2015-10-04</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>

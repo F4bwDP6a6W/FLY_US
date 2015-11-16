@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 27</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>volatile</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;5vRlEtaIl&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 多变的：  characterized by or subject to rapid or unexpected change&lt;br&gt;【例】  a boss of volatile moods  一个性情多变的老板‖The stock market can be very volatile.  股市瞬息万变。&lt;br&gt;【近】  capricious, changeable, fluid, inconstant, mercurial, skittish, temperamental, variable, versatile&lt;br&gt;【反】  certain, changeless, constant, immutable,  invariable, settled, stable, stationary, steady, unchangeable, unvarying  固定的，不变的&lt;br&gt;【派】  volatility  n. 易变性，易挥发性&lt;br&gt;&lt;br&gt;【记】  valentine 情人节，爱情总是变化莫测,多变不稳定的；音：乌拉，俄语欢呼 + tile 瓦，欢呼雀跃地能摸到房顶的瓦片，指能飞，象空气，蒸汽般，引申为象气体般多变；volleyball 排球飞起来&lt;br&gt;A poet is born, not made. 诗人乃天成。<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">volatile</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;5vRlEtaIl&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 多变的： characterized by or subject to rapid or unexpected change<br />
+【例】 a boss of volatile moods 一个性情多变的老板‖The stock market can be very volatile. 股市瞬息万变。<br />
+【近】 capricious, changeable, fluid, inconstant, mercurial, skittish, temperamental, variable, versatile<br />
+【反】 certain, changeless, constant, immutable, invariable, settled, stable, stationary, steady, unchangeable, unvarying 固定的，不变的<br />
+【派】 volatility n. 易变性，易挥发性<br />
+<br />
+【考法 2】不稳定的；爆炸性的；反覆无常的<br />
+<br />
+<br />
+【记】 valentine 情人节，爱情总是变化莫测,多变不稳定的；音：乌拉，俄语欢呼 + tile 瓦，欢呼雀跃地能摸到房顶的瓦片，指能飞，象空气，蒸汽般，引申为象气体般多变；volleyball 排球飞起来<br />
+A poet is born, not made. 诗人乃天成。<br />
+<br />
+<br />
+</answer>
+  <modified>2015-10-02</modified>
+  <template-id>10027</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10027</template-id>
 </item>

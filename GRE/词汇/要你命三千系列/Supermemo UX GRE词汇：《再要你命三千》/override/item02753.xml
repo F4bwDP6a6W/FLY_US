@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <item xmlns="http://www.supermemo.net/2006/smux">
   <lesson-title>GRE词汇：《再要你命三千》</lesson-title>
   <chapter-title>List 28</chapter-title>
   <question-title>根据单词，回想词义</question-title>
-  <question><span style='font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000'>debonair</span><br/><span style='font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000'>[&lt;font face="Kingsoft Phonetic"&gt;7debE5neE&lt;/font&gt;]</span><br/></question>
-  <answer>【考法 1】  adj. 无忧无虑的，不在乎的：  having or showing freedom from worries or troubles&lt;br&gt;【例】  His debonair dismissal of my inquiry concerning his financial situation led me to believe that nothing was wrong.  对于我有关他个人理财的问题，他表现得毫不在乎，这使我相信没有问题。&lt;br&gt;【近】  blithe, carefree, gay, insouciant, lighthearted, lightsome, slaphappy, unconcerned&lt;br&gt;【反】  careworn 焦虑的&lt;br&gt;&lt;br&gt;【考法 2】  adj. 风度翩翩的：  having or showing very polished and worldly manners&lt;br&gt;【例】  The debonair gentleman charmed all of the ladies in the room.  风度翩翩的绅士吸引了在场的所有女士。&lt;br&gt;【近】  civilized, graceful, polished, refined, smooth, sophisticated, suave, svelte, urbane&lt;br&gt;【反】  boorish, churlish, loutish, uncouth  粗鲁的，粗野的；clumsy, gauche, graceless 笨拙的&lt;br&gt;&lt;br&gt;【记】  bon 好 + air空气，氛围<br/></answer>
+  <question><span style="font-size:18; font-family:Comic Sans MS; font-weight:normal; font-style:normal; color:#550000">debonair</span><br /><span style="font-size:14; font-family:微软雅黑; font-weight:normal; font-style:normal; color:#000000">[&lt;font face="Kingsoft Phonetic"&gt;7debE5neE&lt;/font&gt;]</span><br /></question>
+  <answer>【考法 1】 adj. 无忧无虑的： having or showing freedom from worries or troubles<br />
+【例】 His debonair dismissal of my inquiry concerning his financial situation led me to believe that nothing was wrong. 对于我有关他个人理财的问题，他表现得毫不在乎，这使我相信没有问题。<br />
+【近】 blithe, carefree, gay, insouciant, lighthearted, lightsome, slaphappy, unconcerned<br />
+【反】 careworn 焦虑的<br />
+<br />
+【考法 2】 adj. 风度翩翩的： having or showing very polished and worldly manners<br />
+【例】 The debonair gentleman charmed all of the ladies in the room. 风度翩翩的绅士吸引了在场的所有女士。<br />
+【近】 civilized, graceful, polished, refined, smooth, sophisticated, suave, svelte, urbane<br />
+【反】 boorish, churlish, loutish, uncouth 粗鲁的，粗野的；clumsy, gauche, graceless 笨拙的<br />
+<br />
+【记】 bon 好 + air空气，氛围<br />
+</answer>
+  <modified>2015-10-04</modified>
+  <template-id>10028</template-id>
   <question-audio>true</question-audio>
-  <modified>2011-10-14</modified>
-<template-id>10028</template-id>
 </item>
