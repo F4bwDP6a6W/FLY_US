@@ -1,4 +1,4 @@
-[购物] Amazon Prime 10美元 [注册链接](https://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=CNEXTCEKI4M77QCKOVYU6WIVXI&ref_type=generic&ref=sm_st_ref_g_gen)(https://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=CNEXTCEKI4M77QCKOVYU6WIVXI&ref_type=generic&ref=sm_st_ref_g_gen) [半年免费Student Prime申请链接]
+[购物] Amazon Prime 10美元 [注册链接](https://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=CNEXTCEKI4M77QCKOVYU6WIVXI&ref_type=generic&ref=sm_st_ref_g_gen) [半年免费Student Prime申请链接](https://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&*Version*=1&*entries*=0)
 
 [购物] topcashback 美国最好的返利网 返现10美元 [注册链接](http://www.topcashback.com/ref/member87066003232)
 
