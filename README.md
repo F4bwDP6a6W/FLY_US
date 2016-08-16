@@ -6,6 +6,8 @@
  
  > 我的[Linkedin账号](https://www.linkedin.com/in/hot13399), 微信(woshizn).
  
+ > 我收集的一些北美好用的服务：https://github.com/hot13399/FLY_US/blob/master/Referral.md
+ 
 FLY_US 是我收集的一些备考北美研究生的资料。
 包括美国大学信息:[高性价比大学及费用]，GRE还有托福资料。
 最新特别加入[《再要你命3000系列》]，包括原始的PDF版本。
@@ -58,7 +60,3 @@ TOEFL复习主要用：
 [新GRE填空(台湾麟渡兮老师)]: https://github.com/hot13399/FLY_US/blob/master/GRE/%E5%A1%AB%E7%A9%BA/%E6%96%B0GRE%E5%A1%AB%E7%A9%BA(%E5%8F%B0%E6%B9%BE%E9%BA%9F%E6%B8%A1%E5%85%AE%E8%80%81%E5%B8%88).pdf
 [杨鹏的长难句总结]: https://github.com/hot13399/FLY_US/blob/master/GRE/%E9%98%85%E8%AF%BB/%E6%9D%A8%E9%B9%8F%E7%9A%84%E9%95%BF%E9%9A%BE%E5%8F%A5%E6%80%BB%E7%BB%93.pdf
 [Verbal Advantage: Ten Easy Steps to a Powerful Vocabulary]: http://www.amazon.cn/Verbal-Advantage-Ten-Easy-Steps-to-a-Powerful-Vocabulary-Elster-Charles-Harrington/dp/0375709320/ref=cm_cr_pr_bdcrb_top?ie=UTF8
-
-```include
-Referral.md
-```
