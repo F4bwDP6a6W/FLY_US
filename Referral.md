@@ -13,5 +13,3 @@
 [电话卡] Cricket 最划算的美国电话卡 5人Family Plan 20美元一人一月 [注册链接](https://refer.cricketwireless.com/8dwqQAZ)
 
 [外卖] UberEATS 10美元奖励 推荐码：eats-7d1fqe53ue
-
-[国内代购] 微信小程序美西转运 国内买东西寄美国最方便的集运小程序。 [注册链接](https://mp.weixin.qq.com/s/mcgVRxzjpQS0Mbw21Lkk8Q)
